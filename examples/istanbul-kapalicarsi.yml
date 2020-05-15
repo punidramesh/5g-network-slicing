@@ -1,0 +1,397 @@
+settings:
+  simulation_time: 100
+  num_clients: 100
+  limit_closest_base_stations: 5
+  statistics_params:
+    warmup_ratio: 0.05
+    cooldown_ratio: 0.05
+    x:
+      min: 0
+      max: 1980
+    y:
+      min: 0
+      max: 1980
+  logging: False
+  log_file: output.txt
+  plotting_params:
+    plotting: True
+    plot_save: True
+    plot_show: False
+    plot_file: output.png
+    plot_file_dpi: 1000
+    scatter_size: 15
+slices:
+  x_eMBB:
+    delay_tolerance: 10
+    qos_class: 5
+    bandwidth_guaranteed: 0
+    bandwidth_max: 100000000
+    client_weight: 0.39
+    threshold: 0
+    usage_pattern:
+      distribution: randint
+      params:
+        - 4000000
+        - 800000000
+  x_mMTC:
+    delay_tolerance: 10
+    qos_class: 2
+    bandwidth_guaranteed: 1000000
+    bandwidth_max: 10000000
+    client_weight: 0.10
+    threshold: 0
+    usage_pattern:
+      distribution: randint
+      params:
+        - 800000
+        - 8000000
+  x_URLLC:
+    delay_tolerance: 10
+    qos_class: 1
+    bandwidth_guaranteed: 5000000
+    bandwidth_max: 10000000
+    client_weight: 0.02
+    threshold: 0
+    usage_pattern:
+      distribution: randint
+      params:
+        - 800
+        - 8000000
+  x_voice:
+    delay_tolerance: 10
+    qos_class: 3
+    bandwidth_guaranteed: 500000
+    bandwidth_max: 1000000
+    client_weight: 0.06
+    threshold: 0
+    usage_pattern:
+      distribution: randint
+      params:
+        - 4000000
+        - 8000000
+  y_eMBB:
+    delay_tolerance: 10
+    qos_class: 5
+    bandwidth_guaranteed: 0
+    bandwidth_max: 100000000
+    client_weight: 0.30
+    threshold: 0
+    usage_pattern:
+      distribution: randint
+      params:
+        - 2000000
+        - 600000000
+  y_eMBB_p:
+    delay_tolerance: 10
+    qos_class: 4
+    bandwidth_guaranteed: 100000000
+    bandwidth_max: 1000000000
+    client_weight: 0.05
+    threshold: 0
+    usage_pattern:
+      distribution: randint
+      params:
+        - 10000000
+        - 1000000000
+  y_voice:
+    delay_tolerance: 10
+    qos_class: 3
+    bandwidth_guaranteed: 500000
+    bandwidth_max: 1000000
+    client_weight: 0.08
+    threshold: 0
+    usage_pattern:
+      distribution: randint
+      params:
+        - 4000000
+        - 8000000
+base_stations:
+  - capacity_bandwidth: 20000000000
+    coverage: 224
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.59
+      x_mMTC: 0.05
+      x_voice: 0.05
+      y_eMBB: 0.2
+      y_eMBB_p: 0.05
+      y_voice: 0.05
+    x: 182
+    y: 1414
+  - capacity_bandwidth: 20000000000
+    coverage: 250
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.37
+      x_mMTC: 0.05
+      x_voice: 0.06
+      y_eMBB: 0.4
+      y_eMBB_p: 0.05
+      y_voice: 0.05
+    x: 556
+    y: 1262
+  - capacity_bandwidth: 25000000000
+    coverage: 276
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.38
+      x_mMTC: 0.05
+      x_voice: 0.05
+      y_eMBB: 0.4
+      y_eMBB_p: 0.05
+      y_voice: 0.06
+    x: 514
+    y: 766
+  - capacity_bandwidth: 30000000000
+    coverage: 316
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.45
+      x_mMTC: 0.05
+      x_voice: 0.04
+      y_eMBB: 0.36
+      y_eMBB_p: 0.05
+      y_voice: 0.04
+    x: 64
+    y: 510
+  - capacity_bandwidth: 30000000000
+    coverage: 384
+    ratios:
+      x_URLLC: 0.05
+      x_eMBB: 0.2
+      x_mMTC: 0.1
+      x_voice: 0.15
+      y_eMBB: 0.25
+      y_eMBB_p: 0.1
+      y_voice: 0.15
+    x: 126
+    y: 1016
+  - capacity_bandwidth: 25000000000
+    coverage: 348
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.48
+      x_mMTC: 0.06
+      x_voice: 0.03
+      y_eMBB: 0.36
+      y_eMBB_p: 0.01
+      y_voice: 0.05
+    x: 1296
+    y: 980
+  - capacity_bandwidth: 25000000000
+    coverage: 334
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.4
+      x_mMTC: 0.04
+      x_voice: 0.04
+      y_eMBB: 0.38
+      y_eMBB_p: 0.1
+      y_voice: 0.03
+    x: 544
+    y: 1714
+  - capacity_bandwidth: 30000000000
+    coverage: 316
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.36
+      x_mMTC: 0.04
+      x_voice: 0.09
+      y_eMBB: 0.3
+      y_eMBB_p: 0.12
+      y_voice: 0.08
+    x: 996
+    y: 1822
+  - capacity_bandwidth: 80000000000
+    coverage: 418
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.47
+      x_mMTC: 0.03
+      x_voice: 0.07
+      y_eMBB: 0.35
+      y_eMBB_p: 0.03
+      y_voice: 0.04
+    x: 1568
+    y: 1608
+  - capacity_bandwidth: 35000000000
+    coverage: 356
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.4
+      x_mMTC: 0.07
+      x_voice: 0.06
+      y_eMBB: 0.35
+      y_eMBB_p: 0.06
+      y_voice: 0.05
+    x: 980
+    y: 1370
+  - capacity_bandwidth: 35000000000
+    coverage: 206
+    ratios:
+      x_URLLC: 0.02
+      x_eMBB: 0.2
+      x_mMTC: 0.2
+      x_voice: 0.15
+      y_eMBB: 0.18
+      y_eMBB_p: 0.15
+      y_voice: 0.1
+    x: 792
+    y: 988
+  - capacity_bandwidth: 40000000000
+    coverage: 392
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.42
+      x_mMTC: 0.08
+      x_voice: 0.05
+      y_eMBB: 0.35
+      y_eMBB_p: 0.04
+      y_voice: 0.05
+    x: 878
+    y: 560
+  - capacity_bandwidth: 75000000000
+    coverage: 406
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.42
+      x_mMTC: 0.04
+      x_voice: 0.04
+      y_eMBB: 0.4
+      y_eMBB_p: 0.05
+      y_voice: 0.04
+    x: 372
+    y: 180
+  - capacity_bandwidth: 50000000000
+    coverage: 384
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.4
+      x_mMTC: 0.06
+      x_voice: 0.03
+      y_eMBB: 0.3
+      y_eMBB_p: 0.15
+      y_voice: 0.05
+    x: 1066
+    y: 94
+  - capacity_bandwidth: 100000000000
+    coverage: 464
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.4
+      x_mMTC: 0.04
+      x_voice: 0.05
+      y_eMBB: 0.35
+      y_eMBB_p: 0.1
+      y_voice: 0.05
+    x: 1864
+    y: 962
+  - capacity_bandwidth: 30000000000
+    coverage: 302
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.44
+      x_mMTC: 0.05
+      x_voice: 0.05
+      y_eMBB: 0.3
+      y_eMBB_p: 0.1
+      y_voice: 0.05
+    x: 1442
+    y: 476
+  - capacity_bandwidth: 35000000000
+    coverage: 330
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.44
+      x_mMTC: 0.07
+      x_voice: 0.07
+      y_eMBB: 0.3
+      y_eMBB_p: 0.05
+      y_voice: 0.06
+    x: 1862
+    y: 296
+  - capacity_bandwidth: 20000000000
+    coverage: 242
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.43
+      x_mMTC: 0.03
+      x_voice: 0.07
+      y_eMBB: 0.35
+      y_eMBB_p: 0.5
+      y_voice: 0.6
+    x: 1538
+    y: 26
+  - capacity_bandwidth: 10000000000
+    coverage: 152
+    ratios:
+      x_URLLC: 0.05
+      x_eMBB: 0.25
+      x_mMTC: 0.2
+      x_voice: 0.1
+      y_eMBB: 0.25
+      y_eMBB_p: 0.05
+      y_voice: 0.1
+    x: 1448
+    y: 1456
+  - capacity_bandwidth: 50
+    coverage: 368
+    ratios:
+      x_URLLC: 0.01
+      x_eMBB: 0.4
+      x_mMTC: 0.03
+      x_voice: 0.1
+      y_eMBB: 0.38
+      y_eMBB_p: 0.03
+      y_voice: 0.05
+    x: 44
+    y: 1916
+mobility_patterns:
+  car:
+    distribution: normal
+    params:
+      - 0
+      - 7
+    client_weight: 0.10
+  walk:
+    distribution: randint
+    params:
+      - -1
+      - 1
+    client_weight: 0.40
+  stationary:
+    distribution: normal
+    params:
+      - 0
+      - 0.1
+    client_weight: 0.20
+  tram:
+    distribution: randint
+    params:
+      - -4
+      - 4
+    client_weight: 0.10
+  slackperson:
+    distribution: randint
+    params:
+      - 0
+      - 1
+    client_weight: 0.20
+clients:
+  location:
+    x:
+      distribution: randint
+      params:
+        - 0
+        - 1980
+    y:
+      distribution: randint
+      params:
+        - 0
+        - 1980
+  usage_frequency:
+    distribution: randint
+    params:
+      - 0
+      - 100000
+    divide_scale: 1000000
