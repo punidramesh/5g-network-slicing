@@ -1,0 +1,2187 @@
+BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+BS_5 	 cov:[c=(-1300, -1300), r= 400]	 with cap 120000
+BS_6 	 cov:[c=(1100, 1300), r= 357]	 with cap 100000
+KDTREE CALL [0] - limit: 5
+KDTREE CALL [1] - limit: 5
+[1] Client_1 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_2 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_4 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_5 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_6 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_7 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_8 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_10 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_11 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_13 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_14 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_15 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_16 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_17 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_18 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_19 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_20 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_22 freshly assigned to BS_6 	 cov:[c=(1100, 1300), r= 357]	 with cap 100000
+[1] Client_23 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_24 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_25 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_26 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_27 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_28 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_29 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_30 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_31 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_32 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_33 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_34 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_35 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_36 freshly assigned to BS_6 	 cov:[c=(1100, 1300), r= 357]	 with cap 100000
+[1] Client_37 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_38 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_39 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_40 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_41 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_42 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_43 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_44 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_45 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_46 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_48 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_50 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_51 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_52 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_53 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_54 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_55 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_56 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_57 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_58 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_59 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_60 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_61 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_62 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_63 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_64 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_65 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_66 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_67 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_68 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_69 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_72 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_73 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_74 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_75 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_76 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_78 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_79 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_80 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_82 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_83 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_85 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_87 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_88 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_89 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_91 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_92 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_93 freshly assigned to BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[1] Client_94 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_95 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[1] Client_96 freshly assigned to BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[1] Client_97 freshly assigned to BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[1] Client_98 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[1] Client_99 freshly assigned to BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_1 [32.864392311258406, -690.2253615234791] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_1 [32.864392311258406, -690.2253615234791] requests 3894436 usage.
+[2] Client_2 [-867.1412554442572, 93.1031487308485] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_2 [-867.1412554442572, 93.1031487308485] requests 594594295 usage.
+[2] Client_4 [38.07308488855911, -38.601497285068845] connected to slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_4 [38.07308488855911, -38.601497285068845] requests 581720728 usage.
+[2] Client_5 [-930.2340612561943, 174.39592551980832] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_5 [-930.2340612561943, 174.39592551980832] requests 159977750 usage.
+[2] Client_6 [-827.407241384502, 943.5600107333661] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_6 [-827.407241384502, 943.5600107333661] requests 3021093 usage.
+[2] Client_7 [-638.9376165658606, -288.4416644628394] connected to slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_7 [-638.9376165658606, -288.4416644628394] requests 3588690 usage.
+[2] Client_8 [39.61011316834111, -623.7585501265332] connected to slice=iot        init=200000.0 cap=200000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_8 [39.61011316834111, -623.7585501265332] requests 335114775 usage.
+[2] Client_10 [328.53860759627406, -450.16431682332245] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_10 [328.53860759627406, -450.16431682332245] requests 3631636 usage.
+[2] Client_11 [-499.267321642417, -996.3760112903691] connected to slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_11 [-499.267321642417, -996.3760112903691] requests 4908936 usage.
+[2] Client_13 [-1078.123736611846, 934.6167270073162] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_13 [-1078.123736611846, 934.6167270073162] requests 85870082 usage.
+[2] Client_14 [309.1972609525046, 36.91979007691974] connected to slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_14 [309.1972609525046, 36.91979007691974] requests 148476377 usage.
+[2] Client_15 [-766.009629402521, -239.2110227597157] connected to slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_15 [-766.009629402521, -239.2110227597157] requests 3460930 usage.
+[2] Client_16 [754.1010721423569, 140.5814378407834] connected to slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_16 [754.1010721423569, 140.5814378407834] requests 211764162 usage.
+[2] Client_17 [-243.45450346843603, 1318.6124801872136] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_17 [-243.45450346843603, 1318.6124801872136] requests 4477236 usage.
+[2] Client_19 [621.0567556483687, -222.72474560483155] connected to slice=iot        init=200000.0 cap=200000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_19 [621.0567556483687, -222.72474560483155] requests 557843399 usage.
+[2] Client_20 [833.606145364539, 412.93292921936967] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_20 [833.606145364539, 412.93292921936967] requests 2966558 usage.
+[2] Client_22 [1275.7995141497483, 1226.3590109930888] connected to slice=data       init=50000.0 cap=50000.0 diff=0.0   @ BS_6 	 cov:[c=(1100, 1300), r= 357]	 with cap 100000
+[2] Client_22 [1275.7995141497483, 1226.3590109930888] requests 6878012 usage.
+[2] Client_23 [467.0054933617128, -547.155187670043] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_23 [467.0054933617128, -547.155187670043] requests 5761344 usage.
+[2] Client_24 [493.01210992914685, -725.6739776915592] connected to slice=iot        init=200000.0 cap=200000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_24 [493.01210992914685, -725.6739776915592] requests 221885639 usage.
+[2] Client_25 [640.2003885028225, -146.6513536467535] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_25 [640.2003885028225, -146.6513536467535] requests 1889255 usage.
+[2] Client_26 [504.6402372783615, 403.02836053676117] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_26 [504.6402372783615, 403.02836053676117] requests 3408524 usage.
+[2] Client_27 [754.2253099195208, 280.5603374488806] connected to slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_27 [754.2253099195208, 280.5603374488806] requests 47744245 usage.
+[2] Client_28 [782.5980619907153, -18.87000516595146] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_28 [782.5980619907153, -18.87000516595146] requests 2034491 usage.
+[2] Client_29 [279.8730521431106, 431.14639833490327] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_29 [279.8730521431106, 431.14639833490327] requests 7293075 usage.
+[2] Client_30 [906.7555226471422, -545.4621023061359] connected to slice=iot        init=200000.0 cap=200000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_30 [906.7555226471422, -545.4621023061359] requests 420568726 usage.
+[2] Client_31 [-443.18203364686786, -380.1487307418674] connected to slice=iot        init=168000.0 cap=168000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_31 [-443.18203364686786, -380.1487307418674] requests 749899953 usage.
+[2] Client_32 [772.7816518513004, 851.1434544067737] connected to slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_32 [772.7816518513004, 851.1434544067737] requests 438256853 usage.
+[2] Client_33 [491.0108681165568, -1068.4000391359534] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_33 [491.0108681165568, -1068.4000391359534] requests 6411288 usage.
+[2] Client_34 [-553.3655804244489, 476.7298917178744] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_34 [-553.3655804244489, 476.7298917178744] requests 447617687 usage.
+[2] Client_35 [234.04242871198144, -393.841906591835] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_35 [234.04242871198144, -393.841906591835] requests 2741848 usage.
+[2] Client_36 [800.761456035841, 1210.8817198266192] connected to slice=iot        init=50000.0 cap=50000.0 diff=0.0   @ BS_6 	 cov:[c=(1100, 1300), r= 357]	 with cap 100000
+[2] Client_36 [800.761456035841, 1210.8817198266192] requests 227619626 usage.
+[2] Client_37 [-93.37061853751567, 328.83450389736834] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_37 [-93.37061853751567, 328.83450389736834] requests 7012587 usage.
+[2] Client_38 [753.9255507125757, 498.88853585402546] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_38 [753.9255507125757, 498.88853585402546] requests 4636823 usage.
+[2] Client_39 [563.801891498397, 1040.5358322757747] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_39 [563.801891498397, 1040.5358322757747] requests 4524381 usage.
+[2] Client_40 [335.9510487991602, -1460.779254437326] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_40 [335.9510487991602, -1460.779254437326] requests 5339913 usage.
+[2] Client_41 [711.5882696885589, 111.29784346596219] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_41 [711.5882696885589, 111.29784346596219] requests 7975167 usage.
+[2] Client_42 [485.7916179330363, 746.0772102313028] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_42 [485.7916179330363, 746.0772102313028] requests 6995545 usage.
+[2] Client_43 [-209.17041452143837, 670.0962648221797] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_43 [-209.17041452143837, 670.0962648221797] requests 5275042 usage.
+[2] Client_44 [-1398.2749069250608, 608.5944773949631] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_44 [-1398.2749069250608, 608.5944773949631] requests 2462906 usage.
+[2] Client_45 [414.1771425819818, 689.4597675389517] connected to slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_45 [414.1771425819818, 689.4597675389517] requests 141918001 usage.
+[2] Client_48 [4.314809777222343, -598.3781713304566] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_48 [4.314809777222343, -598.3781713304566] requests 3957240 usage.
+[2] Client_50 [704.7526757475763, -57.3374097014989] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_50 [704.7526757475763, -57.3374097014989] requests 3085728 usage.
+[2] Client_51 [-407.7835241656257, 134.2639383494194] connected to slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_51 [-407.7835241656257, 134.2639383494194] requests 617301787 usage.
+[2] Client_52 [-222.3905576152447, -748.1909265328878] connected to slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_52 [-222.3905576152447, -748.1909265328878] requests 6574815 usage.
+[2] Client_53 [558.6192715796054, -129.15908014181693] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_53 [558.6192715796054, -129.15908014181693] requests 6177750 usage.
+[2] Client_54 [547.4120395980851, -867.440741980302] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_54 [547.4120395980851, -867.440741980302] requests 1645206 usage.
+[2] Client_55 [-362.88915219461836, -85.98731713337621] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_55 [-362.88915219461836, -85.98731713337621] requests 7863728 usage.
+[2] Client_56 [-144.5819296270681, 772.900790779221] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_56 [-144.5819296270681, 772.900790779221] requests 532299566 usage.
+[2] Client_57 [-37.836931044664205, -536.3940157318916] connected to slice=iot        init=168000.0 cap=168000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_57 [-37.836931044664205, -536.3940157318916] requests 560742280 usage.
+[2] Client_58 [-622.2247742216656, 190.48625267377398] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_58 [-622.2247742216656, 190.48625267377398] requests 517796154 usage.
+[2] Client_59 [101.40712291021518, 461.6067133372688] connected to slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_59 [101.40712291021518, 461.6067133372688] requests 528427871 usage.
+[2] Client_60 [-328.4045521738805, 456.5106894161799] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_60 [-328.4045521738805, 456.5106894161799] requests 1719461 usage.
+[2] Client_61 [1470.2870699077914, 271.1712844879999] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_61 [1470.2870699077914, 271.1712844879999] requests 5001911 usage.
+[2] Client_62 [341.5713152084876, -43.435989599053066] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_62 [341.5713152084876, -43.435989599053066] requests 5542660 usage.
+[2] Client_63 [290.24227032434055, 8.512616831623788] connected to slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_63 [290.24227032434055, 8.512616831623788] requests 230522438 usage.
+[2] Client_65 [-185.683711565974, 848.4116997851984] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_65 [-185.683711565974, 848.4116997851984] requests 6735717 usage.
+[2] Client_67 [-226.6188950055576, 642.438880168715] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_67 [-226.6188950055576, 642.438880168715] requests 7470498 usage.
+[2] Client_68 [-404.1994690438397, -134.70074155441776] connected to slice=iot        init=168000.0 cap=168000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_68 [-404.1994690438397, -134.70074155441776] requests 279767549 usage.
+[2] Client_69 [1343.2871895659305, 347.5361016150052] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_69 [1343.2871895659305, 347.5361016150052] requests 6304916 usage.
+[2] Client_72 [184.58852471055508, -210.7106312788649] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_72 [184.58852471055508, -210.7106312788649] requests 6404848 usage.
+[2] Client_73 [-295.1960308748086, -235.9220569866411] connected to slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_73 [-295.1960308748086, -235.9220569866411] requests 5100509 usage.
+[2] Client_74 [-24.04279752675686, 498.57018933651267] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_74 [-24.04279752675686, 498.57018933651267] requests 1098586 usage.
+[2] Client_75 [-95.13098117788074, -578.0087376814721] connected to slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_75 [-95.13098117788074, -578.0087376814721] requests 1394601 usage.
+[2] Client_76 [649.8113956173864, -307.8967474988879] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_76 [649.8113956173864, -307.8967474988879] requests 953724 usage.
+[2] Client_78 [-304.70256325974236, -136.67785077409803] connected to slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_78 [-304.70256325974236, -136.67785077409803] requests 384903092 usage.
+[2] Client_79 [86.80692054229067, 323.65935455228396] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_79 [86.80692054229067, 323.65935455228396] requests 6399688 usage.
+[2] Client_80 [-263.2107647158222, 625.6856608399663] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_80 [-263.2107647158222, 625.6856608399663] requests 176511215 usage.
+[2] Client_82 [-635.621215781797, 242.90700742519488] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_82 [-635.621215781797, 242.90700742519488] requests 1540321 usage.
+[2] Client_83 [-73.67927375304832, -287.68241712217167] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_83 [-73.67927375304832, -287.68241712217167] requests 4433094 usage.
+[2] Client_85 [891.2985895815525, -739.6399271529908] connected to slice=iot        init=200000.0 cap=200000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_85 [891.2985895815525, -739.6399271529908] requests 628607868 usage.
+[2] Client_87 [-695.9660485252878, 862.8710212484106] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_87 [-695.9660485252878, 862.8710212484106] requests 5753204 usage.
+[2] Client_88 [22.98983628886379, -800.8046627239642] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_88 [22.98983628886379, -800.8046627239642] requests 6348968 usage.
+[2] Client_89 [-3.5845938152401655, -887.2524964837651] connected to slice=iot        init=200000.0 cap=200000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_89 [-3.5845938152401655, -887.2524964837651] requests 769072777 usage.
+[2] Client_91 [-843.3947442136412, 191.9178719104224] connected to slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_91 [-843.3947442136412, 191.9178719104224] requests 4462832 usage.
+[2] Client_92 [400.31029763690293, -972.185859413259] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_92 [400.31029763690293, -972.185859413259] requests 7868412 usage.
+[2] Client_93 [692.4313787967442, -402.60423698935807] connected to slice=data       init=800000.0 cap=800000.0 diff=0.0   @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[2] Client_93 [692.4313787967442, -402.60423698935807] requests 5812984 usage.
+[2] Client_94 [43.49736457769934, 504.5968807322438] connected to slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_94 [43.49736457769934, 504.5968807322438] requests 524411041 usage.
+[2] Client_95 [-628.9936241809758, 1388.028087079102] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_95 [-628.9936241809758, 1388.028087079102] requests 677686532 usage.
+[2] Client_96 [-297.4854805389919, -632.9311549062323] connected to slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000
+[2] Client_96 [-297.4854805389919, -632.9311549062323] requests 4728129 usage.
+[2] Client_97 [283.5746292924154, -90.49044304128263] connected to slice=data       init=600000.0 cap=600000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[2] Client_97 [283.5746292924154, -90.49044304128263] requests 7298127 usage.
+[2] Client_98 [651.3712735930069, 98.12011638953922] connected to slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[2] Client_98 [651.3712735930069, 98.12011638953922] requests 786357148 usage.
+[2] Client_99 [-1272.403154679887, 862.8825421558689] connected to slice=iot        init=120000.0 cap=120000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000
+[2] Client_99 [-1272.403154679887, 862.8825421558689] requests 452394147 usage.
+[2] Client_0 freshly assigned to BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+KDTREE CALL [2] - limit: 5
+[3] Client_0 [615.0266862306073, 783.3203477399862] connected to slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000
+[3] Client_0 [615.0266862306073, 783.3203477399862] requests 7215076 usage.
+[3] Client_1 [32.811941619224406, -689.2367372734931] gets 66666.66666666667 usage.
+[3] Client_2 [-866.1412554442572, 93.1031487308485] gets 13333.333333333334 usage.
+[3] Client_4 [40.05299023370221, -38.24069041092159] gets 57142.857142857145 usage.
+[3] Client_5 [-930.2324235874697, 175.19354104674966] gets 13333.333333333334 usage.
+[3] Client_6 [-827.407241384502, 943.5600107333661] gets 120000.0 usage.
+[3] Client_7 [-637.9376165658606, -288.4416644628394] gets 76000.0 usage.
+[3] Client_8 [40.61011316834111, -623.7585501265332] gets 33333.333333333336 usage.
+[3] Client_10 [329.58329069800186, -450.0833682650429] gets 66666.66666666667 usage.
+[3] Client_11 [-499.2106685976714, -997.54993344447] gets 76000.0 usage.
+[3] Client_13 [-1077.123736611846, 935.6167270073162] gets 13333.333333333334 usage.
+[3] Client_14 [310.1972609525046, 37.91979007691974] gets 57142.857142857145 usage.
+[3] Client_15 [-765.7915610065022, -239.02473962476327] gets 76000.0 usage.
+[3] Client_16 [754.9417905710496, 140.8617348889586] gets 56000.0 usage.
+[3] Client_17 [-242.01742751335607, 1317.3540259543583] gets 120000.0 usage.
+[3] Client_18 [204.85166049495712, -607.2826498720877] connected to slice=iot        init=200000.0 cap=166666.66666666666 diff=33333.33333333334 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[3] Client_18 [204.85166049495712, -607.2826498720877] requests 667428915 usage.
+[3] Client_19 [622.0567556483687, -222.72474560483155] gets 28571.428571428572 usage.
+[3] Client_20 [833.606145364539, 412.93292921936967] gets 101818.18181818182 usage.
+[3] Client_22 [1274.6880614172446, 1224.1456856428495] gets 50000.0 usage.
+[3] Client_23 [468.0054933617128, -546.155187670043] gets 66666.66666666667 usage.
+[3] Client_24 [494.1155311203371, -725.3744963064834] gets 28571.428571428572 usage.
+[3] Client_25 [640.2003885028225, -145.6513536467535] gets 66666.66666666667 usage.
+[3] Client_26 [505.6402372783615, 404.02836053676117] gets 101818.18181818182 usage.
+[3] Client_27 [755.4797344344993, 278.8772166267529] gets 56000.0 usage.
+[3] Client_28 [783.5980619907153, -18.87000516595146] gets 101818.18181818182 usage.
+[3] Client_29 [279.8730521431106, 432.14639833490327] gets 50000.0 usage.
+[3] Client_30 [907.7555226471422, -544.4621023061359] gets 28571.428571428572 usage.
+[3] Client_31 [-442.18203364686786, -380.1487307418674] gets 56000.0 usage.
+[3] Client_32 [774.7204516037061, 851.9323628963377] gets 56000.0 usage.
+[3] Client_33 [491.16258079036726, -1070.364034060824] gets 66666.66666666667 usage.
+[3] Client_34 [-553.3655804244489, 477.7298917178744] gets 13333.333333333334 usage.
+[3] Client_35 [234.0484515758312, -393.2241565407199] gets 50000.0 usage.
+[3] Client_36 [801.761456035841, 1211.8817198266192] gets 50000.0 usage.
+[3] Client_37 [-91.77128391676696, 327.62707060640867] gets 50000.0 usage.
+[3] Client_38 [754.4459003223357, 498.97372554753275] gets 101818.18181818182 usage.
+[3] Client_39 [564.801891498397, 1041.5358322757747] gets 101818.18181818182 usage.
+[3] Client_40 [336.9510487991602, -1459.779254437326] gets 66666.66666666667 usage.
+[3] Client_41 [712.5882696885589, 112.29784346596219] gets 101818.18181818182 usage.
+[3] Client_42 [485.5253678704827, 746.0625764676022] gets 101818.18181818182 usage.
+[3] Client_43 [-209.17041452143837, 670.0962648221797] gets 120000.0 usage.
+[3] Client_44 [-1397.2749069250608, 609.5944773949631] gets 120000.0 usage.
+[3] Client_45 [414.1771425819818, 689.4597675389517] gets 56000.0 usage.
+[3] Client_46 [42.64694474696981, -359.1367083090357] connected to slice=data       init=600000.0 cap=450000.0 diff=150000.0 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[3] Client_46 [42.64694474696981, -359.1367083090357] requests 4397677 usage.
+[3] Client_48 [4.661900718427293, -595.9466559958415] gets 66666.66666666667 usage.
+[3] Client_50 [706.5094403464307, -55.87364811290795] gets 101818.18181818182 usage.
+[3] Client_51 [-407.1653341452219, 133.50271758975111] gets 57142.857142857145 usage.
+[3] Client_52 [-221.3905576152447, -747.1909265328878] gets 76000.0 usage.
+[3] Client_53 [558.6192715796054, -129.15908014181693] gets 46153.846153846156 usage.
+[3] Client_54 [548.9194059352592, -867.5602178700243] gets 66666.66666666667 usage.
+[3] Client_55 [-362.88915219461836, -84.98731713337621] gets 46153.846153846156 usage.
+[3] Client_56 [-143.95236958469448, 771.9813158822883] gets 13333.333333333334 usage.
+[3] Client_57 [-38.25793978226415, -534.7360614909168] gets 56000.0 usage.
+[3] Client_58 [-621.5080597922196, 192.56811277333807] gets 13333.333333333334 usage.
+[3] Client_59 [101.40712291021518, 461.6067133372688] gets 57142.857142857145 usage.
+[3] Client_60 [-327.9246223068762, 457.08727097463856] gets 46153.846153846156 usage.
+[3] Client_61 [1470.2870699077914, 271.1712844879999] gets 101818.18181818182 usage.
+[3] Client_62 [341.7264175042356, -42.949142947650856] gets 46153.846153846156 usage.
+[3] Client_63 [291.7932757129511, 8.905219591423352] gets 57142.857142857145 usage.
+[3] Client_64 [208.09509705217303, -554.5097491193984] connected to slice=iot        init=200000.0 cap=80952.38095238092 diff=119047.61904761908 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000
+[3] Client_64 [208.09509705217303, -554.5097491193984] requests 134205387 usage.
+[3] Client_65 [-185.683711565974, 848.4116997851984] gets 120000.0 usage.
+[3] Client_66 [26.75509096091415, -528.2064500535522] connected to slice=data       init=600000.0 cap=265384.6153846155 diff=334615.3846153845 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000
+[3] Client_66 [26.75509096091415, -528.2064500535522] requests 5880950 usage.
+[3] Client_67 [-226.6188950055576, 642.438880168715] gets 120000.0 usage.
+[3] Client_68 [-405.0267951951164, -135.5352367599857] gets 56000.0 usage.
+[3] Client_69 [1344.2871895659305, 347.5361016150052] gets 101818.18181818182 usage.
+[3] Client_72 [184.90640165239736, -210.15965369604666] gets 42857.142857142855 usage.
+[3] Client_73 [-295.1960308748086, -235.9220569866411] gets 76000.0 usage.
+[3] Client_74 [-24.04279752675686, 498.57018933651267] gets 42857.142857142855 usage.
+[3] Client_75 [-94.13098117788074, -577.0087376814721] gets 76000.0 usage.
+[3] Client_76 [649.8113956173864, -307.8967474988879] gets 66666.66666666667 usage.
+[3] Client_78 [-303.70256325974236, -135.67785077409803] gets 57142.857142857145 usage.
+[3] Client_79 [85.89446913203757, 323.3273396106637] gets 42857.142857142855 usage.
+[3] Client_80 [-265.07721330824717, 626.2698142927575] gets 13333.333333333334 usage.
+[3] Client_82 [-635.621215781797, 242.90700742519488] gets 120000.0 usage.
+[3] Client_83 [-72.67927375304832, -287.68241712217167] gets 42857.142857142855 usage.
+[3] Client_85 [891.6311363778268, -739.9569263118251] gets 25000.0 usage.
+[3] Client_87 [-695.9660485252878, 862.8710212484106] gets 120000.0 usage.
+[3] Client_88 [23.98983628886379, -800.8046627239642] gets 66666.66666666667 usage.
+[3] Client_89 [-3.1303217234884846, -887.9729310252699] gets 25000.0 usage.
+[3] Client_91 [-843.72176876517, 191.89379070032686] gets 120000.0 usage.
+[3] Client_92 [401.31029763690293, -971.185859413259] gets 66666.66666666667 usage.
+[3] Client_93 [693.4313787967442, -401.60423698935807] gets 66666.66666666667 usage.
+[3] Client_94 [43.49736457769934, 504.5968807322438] gets 57142.857142857145 usage.
+[3] Client_95 [-628.6095278916648, 1387.5219404790507] gets 13333.333333333334 usage.
+[3] Client_96 [-296.4854805389919, -632.9311549062323] gets 76000.0 usage.
+[3] Client_97 [284.5746292924154, -90.49044304128263] gets 42857.142857142855 usage.
+[3] Client_98 [650.9896773683971, 99.47514359367027] gets 56000.0 usage.
+[3] Client_99 [-1272.403154679887, 862.8825421558689] gets 13333.333333333334 usage.
+[3] Client_1 [32.811941619224406, -689.2367372734931] puts back 66666.66666666667 usage.
+[3] Client_2 [-866.1412554442572, 93.1031487308485] puts back 13333.333333333334 usage.
+[3] Client_4 [40.05299023370221, -38.24069041092159] puts back 57142.857142857145 usage.
+[3] Client_5 [-930.2324235874697, 175.19354104674966] puts back 13333.333333333334 usage.
+[3] Client_6 [-827.407241384502, 943.5600107333661] puts back 120000.0 usage.
+[3] Client_7 [-637.9376165658606, -288.4416644628394] puts back 76000.0 usage.
+[3] Client_8 [40.61011316834111, -623.7585501265332] puts back 33333.333333333336 usage.
+[3] Client_10 [329.58329069800186, -450.0833682650429] puts back 66666.66666666667 usage.
+[3] Client_11 [-499.2106685976714, -997.54993344447] puts back 76000.0 usage.
+[3] Client_13 [-1077.123736611846, 935.6167270073162] puts back 13333.333333333334 usage.
+[3] Client_14 [310.1972609525046, 37.91979007691974] puts back 57142.857142857145 usage.
+[3] Client_15 [-765.7915610065022, -239.02473962476327] puts back 76000.0 usage.
+[3] Client_16 [754.9417905710496, 140.8617348889586] puts back 56000.0 usage.
+[3] Client_17 [-242.01742751335607, 1317.3540259543583] puts back 120000.0 usage.
+[3] Client_19 [622.0567556483687, -222.72474560483155] puts back 28571.428571428572 usage.
+[3] Client_20 [833.606145364539, 412.93292921936967] puts back 101818.18181818182 usage.
+[3] Client_22 [1274.6880614172446, 1224.1456856428495] puts back 50000.0 usage.
+[3] Client_23 [468.0054933617128, -546.155187670043] puts back 66666.66666666667 usage.
+[3] Client_24 [494.1155311203371, -725.3744963064834] puts back 28571.428571428572 usage.
+[3] Client_25 [640.2003885028225, -145.6513536467535] puts back 66666.66666666667 usage.
+[3] Client_26 [505.6402372783615, 404.02836053676117] puts back 101818.18181818182 usage.
+[3] Client_27 [755.4797344344993, 278.8772166267529] puts back 56000.0 usage.
+[3] Client_28 [783.5980619907153, -18.87000516595146] puts back 101818.18181818182 usage.
+[3] Client_29 [279.8730521431106, 432.14639833490327] puts back 50000.0 usage.
+[3] Client_30 [907.7555226471422, -544.4621023061359] puts back 28571.428571428572 usage.
+[3] Client_31 [-442.18203364686786, -380.1487307418674] puts back 56000.0 usage.
+[3] Client_32 [774.7204516037061, 851.9323628963377] puts back 56000.0 usage.
+[3] Client_33 [491.16258079036726, -1070.364034060824] puts back 66666.66666666667 usage.
+[3] Client_34 [-553.3655804244489, 477.7298917178744] puts back 13333.333333333334 usage.
+[3] Client_35 [234.0484515758312, -393.2241565407199] puts back 50000.0 usage.
+[3] Client_36 [801.761456035841, 1211.8817198266192] puts back 50000.0 usage.
+[3] Client_37 [-91.77128391676696, 327.62707060640867] puts back 50000.0 usage.
+[3] Client_38 [754.4459003223357, 498.97372554753275] puts back 101818.18181818182 usage.
+[3] Client_39 [564.801891498397, 1041.5358322757747] puts back 101818.18181818182 usage.
+[3] Client_40 [336.9510487991602, -1459.779254437326] puts back 66666.66666666667 usage.
+[3] Client_41 [712.5882696885589, 112.29784346596219] puts back 101818.18181818182 usage.
+[3] Client_42 [485.5253678704827, 746.0625764676022] puts back 101818.18181818182 usage.
+[3] Client_43 [-209.17041452143837, 670.0962648221797] puts back 120000.0 usage.
+[3] Client_44 [-1397.2749069250608, 609.5944773949631] puts back 120000.0 usage.
+[3] Client_45 [414.1771425819818, 689.4597675389517] puts back 56000.0 usage.
+[3] Client_48 [4.661900718427293, -595.9466559958415] puts back 66666.66666666667 usage.
+[3] Client_50 [706.5094403464307, -55.87364811290795] puts back 101818.18181818182 usage.
+[3] Client_51 [-407.1653341452219, 133.50271758975111] puts back 57142.857142857145 usage.
+[3] Client_52 [-221.3905576152447, -747.1909265328878] puts back 76000.0 usage.
+[3] Client_53 [558.6192715796054, -129.15908014181693] puts back 46153.846153846156 usage.
+[3] Client_54 [548.9194059352592, -867.5602178700243] puts back 66666.66666666667 usage.
+[3] Client_55 [-362.88915219461836, -84.98731713337621] puts back 46153.846153846156 usage.
+[3] Client_56 [-143.95236958469448, 771.9813158822883] puts back 13333.333333333334 usage.
+[3] Client_57 [-38.25793978226415, -534.7360614909168] puts back 56000.0 usage.
+[3] Client_58 [-621.5080597922196, 192.56811277333807] puts back 13333.333333333334 usage.
+[3] Client_59 [101.40712291021518, 461.6067133372688] puts back 57142.857142857145 usage.
+[3] Client_60 [-327.9246223068762, 457.08727097463856] puts back 46153.846153846156 usage.
+[3] Client_61 [1470.2870699077914, 271.1712844879999] puts back 101818.18181818182 usage.
+[3] Client_62 [341.7264175042356, -42.949142947650856] puts back 46153.846153846156 usage.
+[3] Client_63 [291.7932757129511, 8.905219591423352] puts back 57142.857142857145 usage.
+[3] Client_65 [-185.683711565974, 848.4116997851984] puts back 120000.0 usage.
+[3] Client_67 [-226.6188950055576, 642.438880168715] puts back 120000.0 usage.
+[3] Client_68 [-405.0267951951164, -135.5352367599857] puts back 56000.0 usage.
+[3] Client_69 [1344.2871895659305, 347.5361016150052] puts back 101818.18181818182 usage.
+[3] Client_72 [184.90640165239736, -210.15965369604666] puts back 42857.142857142855 usage.
+[3] Client_73 [-295.1960308748086, -235.9220569866411] puts back 76000.0 usage.
+[3] Client_74 [-24.04279752675686, 498.57018933651267] puts back 42857.142857142855 usage.
+[3] Client_75 [-94.13098117788074, -577.0087376814721] puts back 76000.0 usage.
+[3] Client_76 [649.8113956173864, -307.8967474988879] puts back 66666.66666666667 usage.
+[3] Client_78 [-303.70256325974236, -135.67785077409803] puts back 57142.857142857145 usage.
+[3] Client_79 [85.89446913203757, 323.3273396106637] puts back 42857.142857142855 usage.
+[3] Client_80 [-265.07721330824717, 626.2698142927575] puts back 13333.333333333334 usage.
+[3] Client_82 [-635.621215781797, 242.90700742519488] puts back 120000.0 usage.
+[3] Client_83 [-72.67927375304832, -287.68241712217167] puts back 42857.142857142855 usage.
+[3] Client_85 [891.6311363778268, -739.9569263118251] puts back 25000.0 usage.
+[3] Client_87 [-695.9660485252878, 862.8710212484106] puts back 120000.0 usage.
+[3] Client_88 [23.98983628886379, -800.8046627239642] puts back 66666.66666666667 usage.
+[3] Client_89 [-3.1303217234884846, -887.9729310252699] puts back 25000.0 usage.
+[3] Client_91 [-843.72176876517, 191.89379070032686] puts back 120000.0 usage.
+[3] Client_92 [401.31029763690293, -971.185859413259] puts back 66666.66666666667 usage.
+[3] Client_93 [693.4313787967442, -401.60423698935807] puts back 66666.66666666667 usage.
+[3] Client_94 [43.49736457769934, 504.5968807322438] puts back 57142.857142857145 usage.
+[3] Client_95 [-628.6095278916648, 1387.5219404790507] puts back 13333.333333333334 usage.
+[3] Client_96 [-296.4854805389919, -632.9311549062323] puts back 76000.0 usage.
+[3] Client_97 [284.5746292924154, -90.49044304128263] puts back 42857.142857142855 usage.
+[3] Client_98 [650.9896773683971, 99.47514359367027] puts back 56000.0 usage.
+[3] Client_99 [-1272.403154679887, 862.8825421558689] puts back 13333.333333333334 usage.
+KDTREE CALL [3] - limit: 5
+[4] Client_0 [615.0266862306073, 783.3203477399862] gets 101818.18181818182 usage.
+[4] Client_1 [33.75135849475071, -689.4524999852852] gets 66666.66666666667 usage.
+[4] Client_2 [-866.1412554442572, 93.1031487308485] gets 13333.333333333334 usage.
+[4] Client_4 [39.76881271109131, -37.54442318527099] gets 57142.857142857145 usage.
+[4] Client_5 [-929.4931303852387, 174.8706192679325] gets 13333.333333333334 usage.
+[4] Client_6 [-827.407241384502, 943.5600107333661] gets 120000.0 usage.
+[4] Client_7 [-637.9376165658606, -287.4416644628394] gets 76000.0 usage.
+[4] Client_8 [41.61011316834111, -622.7585501265332] gets 25000.0 usage.
+[4] Client_10 [327.8662574152275, -450.0908349292028] gets 66666.66666666667 usage.
+[4] Client_11 [-499.01544068834744, -996.9537629646941] gets 76000.0 usage.
+[4] Client_13 [-1076.123736611846, 935.6167270073162] gets 13333.333333333334 usage.
+[4] Client_14 [310.1972609525046, 37.91979007691974] gets 57142.857142857145 usage.
+[4] Client_15 [-765.6987830360881, -238.73946312156718] gets 76000.0 usage.
+[4] Client_16 [754.9794376166496, 140.14655515343938] gets 56000.0 usage.
+[4] Client_17 [-242.41055744722493, 1316.9299059557761] gets 120000.0 usage.
+[4] Client_18 [203.83997016986208, -606.7388547647347] gets 25000.0 usage.
+[4] Client_19 [622.0567556483687, -221.72474560483155] gets 25000.0 usage.
+[4] Client_20 [834.606145364539, 413.93292921936967] gets 101818.18181818182 usage.
+[4] Client_22 [1275.529949556545, 1222.8709507905342] gets 50000.0 usage.
+[4] Client_23 [468.0054933617128, -545.155187670043] gets 66666.66666666667 usage.
+[4] Client_24 [495.00009400885915, -724.1007267931604] gets 25000.0 usage.
+[4] Client_25 [641.2003885028225, -145.6513536467535] gets 66666.66666666667 usage.
+[4] Client_26 [505.6402372783615, 404.02836053676117] gets 101818.18181818182 usage.
+[4] Client_27 [754.1633372634774, 278.15191617443986] gets 56000.0 usage.
+[4] Client_28 [783.5980619907153, -18.87000516595146] gets 101818.18181818182 usage.
+[4] Client_29 [279.8730521431106, 432.14639833490327] gets 42857.142857142855 usage.
+[4] Client_30 [907.7555226471422, -544.4621023061359] gets 25000.0 usage.
+[4] Client_31 [-442.18203364686786, -380.1487307418674] gets 56000.0 usage.
+[4] Client_32 [774.2622071448949, 853.3970538725271] gets 56000.0 usage.
+[4] Client_33 [491.4039071912496, -1068.611242523951] gets 66666.66666666667 usage.
+[4] Client_34 [-553.3655804244489, 477.7298917178744] gets 13333.333333333334 usage.
+[4] Client_35 [233.36310764921703, -394.416268856068] gets 42857.142857142855 usage.
+[4] Client_36 [801.761456035841, 1212.8817198266192] gets 50000.0 usage.
+[4] Client_37 [-93.29620994269548, 327.2504592644794] gets 42857.142857142855 usage.
+[4] Client_38 [755.2329382789185, 499.32811837523985] gets 101818.18181818182 usage.
+[4] Client_39 [565.801891498397, 1041.5358322757747] gets 101818.18181818182 usage.
+[4] Client_40 [336.9510487991602, -1459.779254437326] gets 66666.66666666667 usage.
+[4] Client_41 [713.5882696885589, 113.29784346596219] gets 101818.18181818182 usage.
+[4] Client_42 [484.63445939584017, 746.2946571774254] gets 101818.18181818182 usage.
+[4] Client_43 [-208.17041452143837, 670.0962648221797] gets 120000.0 usage.
+[4] Client_44 [-1397.2749069250608, 609.5944773949631] gets 120000.0 usage.
+[4] Client_45 [414.1771425819818, 690.4597675389517] gets 56000.0 usage.
+[4] Client_46 [43.51680546381254, -358.2679977440318] gets 42857.142857142855 usage.
+[4] Client_48 [4.002392766681909, -594.972577621904] gets 66666.66666666667 usage.
+[4] Client_50 [706.8955555536538, -55.341173145884156] gets 101818.18181818182 usage.
+[4] Client_51 [-408.2290658532195, 135.19572193259557] gets 57142.857142857145 usage.
+[4] Client_52 [-220.3905576152447, -746.1909265328878] gets 76000.0 usage.
+[4] Client_53 [558.6192715796054, -129.15908014181693] gets 42857.142857142855 usage.
+[4] Client_54 [548.9621355865478, -866.9518529520977] gets 66666.66666666667 usage.
+[4] Client_55 [-361.88915219461836, -83.98731713337621] gets 42857.142857142855 usage.
+[4] Client_56 [-144.26481365548648, 771.272787096858] gets 13333.333333333334 usage.
+[4] Client_57 [-37.020396624572406, -535.5923923253063] gets 56000.0 usage.
+[4] Client_58 [-620.7300671477079, 193.1207502724019] gets 13333.333333333334 usage.
+[4] Client_59 [102.40712291021518, 462.6067133372688] gets 57142.857142857145 usage.
+[4] Client_60 [-328.03243736802455, 457.4952400098147] gets 42857.142857142855 usage.
+[4] Client_61 [1470.2870699077914, 271.1712844879999] gets 101818.18181818182 usage.
+[4] Client_62 [341.7332225611631, -42.10846590544631] gets 42857.142857142855 usage.
+[4] Client_63 [293.15701446730986, 9.904595037207315] gets 57142.857142857145 usage.
+[4] Client_64 [208.09509705217303, -554.5097491193984] gets 25000.0 usage.
+[4] Client_65 [-185.683711565974, 849.4116997851984] gets 120000.0 usage.
+[4] Client_66 [27.75509096091415, -527.2064500535522] gets 42857.142857142855 usage.
+[4] Client_67 [-225.6188950055576, 643.438880168715] gets 120000.0 usage.
+[4] Client_68 [-405.2425268598448, -135.45360608347116] gets 56000.0 usage.
+[4] Client_69 [1345.2871895659305, 348.5361016150052] gets 101818.18181818182 usage.
+[4] Client_72 [185.55681069293937, -210.03292710936896] gets 42857.142857142855 usage.
+[4] Client_73 [-294.1960308748086, -235.9220569866411] gets 76000.0 usage.
+[4] Client_74 [-23.04279752675686, 499.57018933651267] gets 42857.142857142855 usage.
+[4] Client_75 [-93.13098117788074, -576.0087376814721] gets 76000.0 usage.
+[4] Client_76 [650.8113956173864, -307.8967474988879] gets 66666.66666666667 usage.
+[4] Client_78 [-303.70256325974236, -134.67785077409803] gets 57142.857142857145 usage.
+[4] Client_79 [86.21472900103025, 323.98097192744484] gets 42857.142857142855 usage.
+[4] Client_80 [-265.09810961897807, 627.3001230400176] gets 13333.333333333334 usage.
+[4] Client_82 [-634.621215781797, 243.90700742519488] gets 120000.0 usage.
+[4] Client_83 [-71.67927375304832, -287.68241712217167] gets 42857.142857142855 usage.
+[4] Client_85 [890.7916104039014, -739.4256156856154] gets 25000.0 usage.
+[4] Client_87 [-694.9660485252878, 862.8710212484106] gets 120000.0 usage.
+[4] Client_88 [24.98983628886379, -800.8046627239642] gets 66666.66666666667 usage.
+[4] Client_89 [-4.152753164537838, -888.6909517201117] gets 25000.0 usage.
+[4] Client_91 [-845.0186139823654, 192.65560186388885] gets 120000.0 usage.
+[4] Client_92 [401.31029763690293, -971.185859413259] gets 66666.66666666667 usage.
+[4] Client_93 [694.4313787967442, -400.60423698935807] gets 66666.66666666667 usage.
+[4] Client_94 [44.49736457769934, 505.5968807322438] gets 57142.857142857145 usage.
+[4] Client_95 [-628.3127120228769, 1387.9149968990955] gets 13333.333333333334 usage.
+[4] Client_96 [-296.4854805389919, -632.9311549062323] gets 76000.0 usage.
+[4] Client_97 [284.5746292924154, -90.49044304128263] gets 42857.142857142855 usage.
+[4] Client_98 [651.0301530751528, 97.91550998205915] gets 56000.0 usage.
+[4] Client_99 [-1271.403154679887, 863.8825421558689] gets 13333.333333333334 usage.
+[4] Client_0 [615.0266862306073, 783.3203477399862] puts back 101818.18181818182 usage.
+[4] Client_1 [33.75135849475071, -689.4524999852852] puts back 66666.66666666667 usage.
+[4] Client_2 [-866.1412554442572, 93.1031487308485] puts back 13333.333333333334 usage.
+[4] Client_4 [39.76881271109131, -37.54442318527099] puts back 57142.857142857145 usage.
+[4] Client_5 [-929.4931303852387, 174.8706192679325] puts back 13333.333333333334 usage.
+[4] Client_6 [-827.407241384502, 943.5600107333661] puts back 120000.0 usage.
+[4] Client_7 [-637.9376165658606, -287.4416644628394] puts back 76000.0 usage.
+[4] Client_8 [41.61011316834111, -622.7585501265332] puts back 25000.0 usage.
+[4] Client_10 [327.8662574152275, -450.0908349292028] puts back 66666.66666666667 usage.
+[4] Client_11 [-499.01544068834744, -996.9537629646941] puts back 76000.0 usage.
+[4] Client_13 [-1076.123736611846, 935.6167270073162] puts back 13333.333333333334 usage.
+[4] Client_14 [310.1972609525046, 37.91979007691974] puts back 57142.857142857145 usage.
+[4] Client_15 [-765.6987830360881, -238.73946312156718] puts back 76000.0 usage.
+[4] Client_16 [754.9794376166496, 140.14655515343938] puts back 56000.0 usage.
+[4] Client_17 [-242.41055744722493, 1316.9299059557761] puts back 120000.0 usage.
+[4] Client_18 [203.83997016986208, -606.7388547647347] puts back 25000.0 usage.
+[4] Client_19 [622.0567556483687, -221.72474560483155] puts back 25000.0 usage.
+[4] Client_20 [834.606145364539, 413.93292921936967] puts back 101818.18181818182 usage.
+[4] Client_22 [1275.529949556545, 1222.8709507905342] puts back 50000.0 usage.
+[4] Client_23 [468.0054933617128, -545.155187670043] puts back 66666.66666666667 usage.
+[4] Client_24 [495.00009400885915, -724.1007267931604] puts back 25000.0 usage.
+[4] Client_25 [641.2003885028225, -145.6513536467535] puts back 66666.66666666667 usage.
+[4] Client_26 [505.6402372783615, 404.02836053676117] puts back 101818.18181818182 usage.
+[4] Client_27 [754.1633372634774, 278.15191617443986] puts back 56000.0 usage.
+[4] Client_28 [783.5980619907153, -18.87000516595146] puts back 101818.18181818182 usage.
+[4] Client_29 [279.8730521431106, 432.14639833490327] puts back 42857.142857142855 usage.
+[4] Client_30 [907.7555226471422, -544.4621023061359] puts back 25000.0 usage.
+[4] Client_31 [-442.18203364686786, -380.1487307418674] puts back 56000.0 usage.
+[4] Client_32 [774.2622071448949, 853.3970538725271] puts back 56000.0 usage.
+[4] Client_33 [491.4039071912496, -1068.611242523951] puts back 66666.66666666667 usage.
+[4] Client_34 [-553.3655804244489, 477.7298917178744] puts back 13333.333333333334 usage.
+[4] Client_35 [233.36310764921703, -394.416268856068] puts back 42857.142857142855 usage.
+[4] Client_36 [801.761456035841, 1212.8817198266192] puts back 50000.0 usage.
+[4] Client_37 [-93.29620994269548, 327.2504592644794] puts back 42857.142857142855 usage.
+[4] Client_38 [755.2329382789185, 499.32811837523985] puts back 101818.18181818182 usage.
+[4] Client_39 [565.801891498397, 1041.5358322757747] puts back 101818.18181818182 usage.
+[4] Client_40 [336.9510487991602, -1459.779254437326] puts back 66666.66666666667 usage.
+[4] Client_41 [713.5882696885589, 113.29784346596219] puts back 101818.18181818182 usage.
+[4] Client_42 [484.63445939584017, 746.2946571774254] puts back 101818.18181818182 usage.
+[4] Client_43 [-208.17041452143837, 670.0962648221797] puts back 120000.0 usage.
+[4] Client_44 [-1397.2749069250608, 609.5944773949631] puts back 120000.0 usage.
+[4] Client_45 [414.1771425819818, 690.4597675389517] puts back 56000.0 usage.
+[4] Client_46 [43.51680546381254, -358.2679977440318] puts back 42857.142857142855 usage.
+[4] Client_48 [4.002392766681909, -594.972577621904] puts back 66666.66666666667 usage.
+[4] Client_50 [706.8955555536538, -55.341173145884156] puts back 101818.18181818182 usage.
+[4] Client_51 [-408.2290658532195, 135.19572193259557] puts back 57142.857142857145 usage.
+[4] Client_52 [-220.3905576152447, -746.1909265328878] puts back 76000.0 usage.
+[4] Client_53 [558.6192715796054, -129.15908014181693] puts back 42857.142857142855 usage.
+[4] Client_54 [548.9621355865478, -866.9518529520977] puts back 66666.66666666667 usage.
+[4] Client_55 [-361.88915219461836, -83.98731713337621] puts back 42857.142857142855 usage.
+[4] Client_56 [-144.26481365548648, 771.272787096858] puts back 13333.333333333334 usage.
+[4] Client_57 [-37.020396624572406, -535.5923923253063] puts back 56000.0 usage.
+[4] Client_58 [-620.7300671477079, 193.1207502724019] puts back 13333.333333333334 usage.
+[4] Client_59 [102.40712291021518, 462.6067133372688] puts back 57142.857142857145 usage.
+[4] Client_60 [-328.03243736802455, 457.4952400098147] puts back 42857.142857142855 usage.
+[4] Client_61 [1470.2870699077914, 271.1712844879999] puts back 101818.18181818182 usage.
+[4] Client_62 [341.7332225611631, -42.10846590544631] puts back 42857.142857142855 usage.
+[4] Client_63 [293.15701446730986, 9.904595037207315] puts back 57142.857142857145 usage.
+[4] Client_64 [208.09509705217303, -554.5097491193984] puts back 25000.0 usage.
+[4] Client_65 [-185.683711565974, 849.4116997851984] puts back 120000.0 usage.
+[4] Client_66 [27.75509096091415, -527.2064500535522] puts back 42857.142857142855 usage.
+[4] Client_67 [-225.6188950055576, 643.438880168715] puts back 120000.0 usage.
+[4] Client_68 [-405.2425268598448, -135.45360608347116] puts back 56000.0 usage.
+[4] Client_69 [1345.2871895659305, 348.5361016150052] puts back 101818.18181818182 usage.
+[4] Client_72 [185.55681069293937, -210.03292710936896] puts back 42857.142857142855 usage.
+[4] Client_73 [-294.1960308748086, -235.9220569866411] puts back 76000.0 usage.
+[4] Client_74 [-23.04279752675686, 499.57018933651267] puts back 42857.142857142855 usage.
+[4] Client_75 [-93.13098117788074, -576.0087376814721] puts back 76000.0 usage.
+[4] Client_76 [650.8113956173864, -307.8967474988879] puts back 66666.66666666667 usage.
+[4] Client_78 [-303.70256325974236, -134.67785077409803] puts back 57142.857142857145 usage.
+[4] Client_79 [86.21472900103025, 323.98097192744484] puts back 42857.142857142855 usage.
+[4] Client_80 [-265.09810961897807, 627.3001230400176] puts back 13333.333333333334 usage.
+[4] Client_82 [-634.621215781797, 243.90700742519488] puts back 120000.0 usage.
+[4] Client_83 [-71.67927375304832, -287.68241712217167] puts back 42857.142857142855 usage.
+[4] Client_85 [890.7916104039014, -739.4256156856154] puts back 25000.0 usage.
+[4] Client_87 [-694.9660485252878, 862.8710212484106] puts back 120000.0 usage.
+[4] Client_88 [24.98983628886379, -800.8046627239642] puts back 66666.66666666667 usage.
+[4] Client_89 [-4.152753164537838, -888.6909517201117] puts back 25000.0 usage.
+[4] Client_91 [-845.0186139823654, 192.65560186388885] puts back 120000.0 usage.
+[4] Client_92 [401.31029763690293, -971.185859413259] puts back 66666.66666666667 usage.
+[4] Client_93 [694.4313787967442, -400.60423698935807] puts back 66666.66666666667 usage.
+[4] Client_94 [44.49736457769934, 505.5968807322438] puts back 57142.857142857145 usage.
+[4] Client_95 [-628.3127120228769, 1387.9149968990955] puts back 13333.333333333334 usage.
+[4] Client_96 [-296.4854805389919, -632.9311549062323] puts back 76000.0 usage.
+[4] Client_97 [284.5746292924154, -90.49044304128263] puts back 42857.142857142855 usage.
+[4] Client_98 [651.0301530751528, 97.91550998205915] puts back 56000.0 usage.
+[4] Client_99 [-1271.403154679887, 863.8825421558689] puts back 13333.333333333334 usage.
+KDTREE CALL [4] - limit: 5
+[5] Client_0 [616.0266862306073, 783.3203477399862] gets 101818.18181818182 usage.
+[5] Client_1 [33.887298141164905, -689.8020034842616] gets 66666.66666666667 usage.
+[5] Client_2 [-866.1412554442572, 93.1031487308485] gets 13333.333333333334 usage.
+[5] Client_4 [39.114409369278945, -37.647248030047066] gets 57142.857142857145 usage.
+[5] Client_5 [-928.9138713820768, 175.78904371731554] gets 13333.333333333334 usage.
+[5] Client_6 [-826.407241384502, 943.5600107333661] gets 120000.0 usage.
+[5] Client_7 [-636.9376165658606, -286.4416644628394] gets 76000.0 usage.
+[5] Client_8 [42.61011316834111, -622.7585501265332] gets 25000.0 usage.
+[5] Client_10 [327.3593980556187, -450.5767714823665] gets 66666.66666666667 usage.
+[5] Client_11 [-500.68447619485704, -998.8539654699115] gets 76000.0 usage.
+[5] Client_13 [-1076.123736611846, 935.6167270073162] gets 13333.333333333334 usage.
+[5] Client_14 [310.1972609525046, 38.91979007691974] gets 57142.857142857145 usage.
+[5] Client_15 [-765.2020763066712, -238.87192529509448] gets 76000.0 usage.
+[5] Client_16 [755.3147457207145, 139.36818266176] gets 56000.0 usage.
+[5] Client_17 [-242.2746593958209, 1316.0876219089678] gets 120000.0 usage.
+[5] Client_18 [202.920367880886, -603.475882824909] gets 25000.0 usage.
+[5] Client_19 [623.0567556483687, -221.72474560483155] gets 25000.0 usage.
+[5] Client_20 [835.606145364539, 413.93292921936967] gets 101818.18181818182 usage.
+[5] Client_22 [1274.6108298860543, 1224.762181111693] gets 50000.0 usage.
+[5] Client_23 [468.0054933617128, -545.155187670043] gets 66666.66666666667 usage.
+[5] Client_24 [495.0599925388088, -722.8458150455025] gets 25000.0 usage.
+[5] Client_25 [641.2003885028225, -144.6513536467535] gets 66666.66666666667 usage.
+[5] Client_26 [506.6402372783615, 404.02836053676117] gets 101818.18181818182 usage.
+[5] Client_27 [753.3306401206303, 279.1872554254261] gets 56000.0 usage.
+[5] Client_28 [783.5980619907153, -18.87000516595146] gets 101818.18181818182 usage.
+[5] Client_29 [279.8730521431106, 432.14639833490327] gets 42857.142857142855 usage.
+[5] Client_30 [908.7555226471422, -544.4621023061359] gets 25000.0 usage.
+[5] Client_31 [-442.18203364686786, -379.1487307418674] gets 56000.0 usage.
+[5] Client_32 [772.7581214484737, 854.9364955439796] gets 56000.0 usage.
+[5] Client_33 [490.8993785829977, -1069.2145758218041] gets 66666.66666666667 usage.
+[5] Client_34 [-552.3655804244489, 478.7298917178744] gets 13333.333333333334 usage.
+[5] Client_35 [232.12479082117588, -393.6901358680927] gets 42857.142857142855 usage.
+[5] Client_36 [802.761456035841, 1213.8817198266192] gets 50000.0 usage.
+[5] Client_37 [-94.31413787180853, 328.34319148942194] gets 42857.142857142855 usage.
+[5] Client_38 [754.7510770347673, 498.5556575630978] gets 101818.18181818182 usage.
+[5] Client_39 [565.801891498397, 1041.5358322757747] gets 101818.18181818182 usage.
+[5] Client_40 [337.9510487991602, -1458.779254437326] gets 66666.66666666667 usage.
+[5] Client_41 [713.5882696885589, 114.29784346596219] gets 101818.18181818182 usage.
+[5] Client_42 [482.89914281513234, 747.0929460872787] gets 101818.18181818182 usage.
+[5] Client_43 [-208.17041452143837, 670.0962648221797] gets 120000.0 usage.
+[5] Client_44 [-1396.2749069250608, 610.5944773949631] gets 120000.0 usage.
+[5] Client_45 [415.1771425819818, 691.4597675389517] gets 56000.0 usage.
+[5] Client_46 [40.79144814228835, -358.15228327883995] gets 42857.142857142855 usage.
+[5] Client_48 [5.238181683778516, -595.2696022757432] gets 66666.66666666667 usage.
+[5] Client_50 [707.1110515024003, -54.33752168361981] gets 101818.18181818182 usage.
+[5] Client_51 [-409.3397219719178, 133.95743837291005] gets 57142.857142857145 usage.
+[5] Client_52 [-220.3905576152447, -745.1909265328878] gets 76000.0 usage.
+[5] Client_53 [559.6192715796054, -128.15908014181693] gets 42857.142857142855 usage.
+[5] Client_54 [549.1261622566125, -865.8803876233465] gets 66666.66666666667 usage.
+[5] Client_55 [-361.88915219461836, -83.98731713337621] gets 42857.142857142855 usage.
+[5] Client_56 [-143.60044687284932, 770.6146132946182] gets 13333.333333333334 usage.
+[5] Client_57 [-35.59787908276157, -535.9867956682325] gets 56000.0 usage.
+[5] Client_58 [-622.0346949319267, 195.49048610854882] gets 13333.333333333334 usage.
+[5] Client_59 [103.40712291021518, 462.6067133372688] gets 57142.857142857145 usage.
+[5] Client_60 [-328.86491571265776, 458.1422177522374] gets 42857.142857142855 usage.
+[5] Client_61 [1470.2870699077914, 271.1712844879999] gets 101818.18181818182 usage.
+[5] Client_62 [342.21834870220675, -40.74976295568708] gets 42857.142857142855 usage.
+[5] Client_63 [294.02239853052015, 9.22426243250868] gets 57142.857142857145 usage.
+[5] Client_64 [208.09509705217303, -554.5097491193984] gets 25000.0 usage.
+[5] Client_65 [-184.683711565974, 849.4116997851984] gets 120000.0 usage.
+[5] Client_66 [27.75509096091415, -527.2064500535522] gets 42857.142857142855 usage.
+[5] Client_67 [-225.6188950055576, 643.438880168715] gets 120000.0 usage.
+[5] Client_68 [-403.62381722109023, -136.1002543172273] gets 56000.0 usage.
+[5] Client_69 [1346.2871895659305, 348.5361016150052] gets 101818.18181818182 usage.
+[5] Client_72 [186.6282508195434, -208.38030751294306] gets 42857.142857142855 usage.
+[5] Client_73 [-294.1960308748086, -234.9220569866411] gets 76000.0 usage.
+[5] Client_74 [-22.04279752675686, 500.57018933651267] gets 42857.142857142855 usage.
+[5] Client_75 [-92.13098117788074, -576.0087376814721] gets 76000.0 usage.
+[5] Client_76 [651.8113956173864, -307.8967474988879] gets 66666.66666666667 usage.
+[5] Client_78 [-302.70256325974236, -134.67785077409803] gets 57142.857142857145 usage.
+[5] Client_79 [86.16483282330512, 324.43571567814035] gets 42857.142857142855 usage.
+[5] Client_80 [-265.70800494367285, 625.9849538964801] gets 13333.333333333334 usage.
+[5] Client_82 [-634.621215781797, 244.90700742519488] gets 120000.0 usage.
+[5] Client_83 [-70.67927375304832, -287.68241712217167] gets 42857.142857142855 usage.
+[5] Client_85 [890.7179803344069, -738.6265471437418] gets 25000.0 usage.
+[5] Client_87 [-693.9660485252878, 862.8710212484106] gets 120000.0 usage.
+[5] Client_88 [24.98983628886379, -800.8046627239642] gets 66666.66666666667 usage.
+[5] Client_89 [-4.225514913176302, -889.4044362640432] gets 25000.0 usage.
+[5] Client_91 [-846.290973778547, 192.92809754219718] gets 120000.0 usage.
+[5] Client_92 [402.31029763690293, -971.185859413259] gets 66666.66666666667 usage.
+[5] Client_93 [695.4313787967442, -400.60423698935807] gets 66666.66666666667 usage.
+[5] Client_94 [45.49736457769934, 506.5968807322438] gets 57142.857142857145 usage.
+[5] Client_95 [-628.3833567779094, 1387.989352513923] gets 13333.333333333334 usage.
+[5] Client_96 [-295.4854805389919, -631.9311549062323] gets 76000.0 usage.
+[5] Client_97 [284.5746292924154, -89.49044304128263] gets 42857.142857142855 usage.
+[5] Client_98 [651.2068182475838, 96.15510629365966] gets 56000.0 usage.
+[5] Client_99 [-1270.403154679887, 863.8825421558689] gets 13333.333333333334 usage.
+[5] Client_0 [616.0266862306073, 783.3203477399862] puts back 101818.18181818182 usage.
+[5] Client_1 [33.887298141164905, -689.8020034842616] puts back 66666.66666666667 usage.
+[5] Client_2 [-866.1412554442572, 93.1031487308485] puts back 13333.333333333334 usage.
+[5] Client_4 [39.114409369278945, -37.647248030047066] puts back 57142.857142857145 usage.
+[5] Client_5 [-928.9138713820768, 175.78904371731554] puts back 13333.333333333334 usage.
+[5] Client_6 [-826.407241384502, 943.5600107333661] puts back 120000.0 usage.
+[5] Client_7 [-636.9376165658606, -286.4416644628394] puts back 76000.0 usage.
+[5] Client_8 [42.61011316834111, -622.7585501265332] puts back 25000.0 usage.
+[5] Client_10 [327.3593980556187, -450.5767714823665] puts back 66666.66666666667 usage.
+[5] Client_11 [-500.68447619485704, -998.8539654699115] puts back 76000.0 usage.
+[5] Client_13 [-1076.123736611846, 935.6167270073162] puts back 13333.333333333334 usage.
+[5] Client_14 [310.1972609525046, 38.91979007691974] puts back 57142.857142857145 usage.
+[5] Client_15 [-765.2020763066712, -238.87192529509448] puts back 76000.0 usage.
+[5] Client_16 [755.3147457207145, 139.36818266176] puts back 56000.0 usage.
+[5] Client_17 [-242.2746593958209, 1316.0876219089678] puts back 120000.0 usage.
+[5] Client_18 [202.920367880886, -603.475882824909] puts back 25000.0 usage.
+[5] Client_19 [623.0567556483687, -221.72474560483155] puts back 25000.0 usage.
+[5] Client_20 [835.606145364539, 413.93292921936967] puts back 101818.18181818182 usage.
+[5] Client_22 [1274.6108298860543, 1224.762181111693] puts back 50000.0 usage.
+[5] Client_23 [468.0054933617128, -545.155187670043] puts back 66666.66666666667 usage.
+[5] Client_24 [495.0599925388088, -722.8458150455025] puts back 25000.0 usage.
+[5] Client_25 [641.2003885028225, -144.6513536467535] puts back 66666.66666666667 usage.
+[5] Client_26 [506.6402372783615, 404.02836053676117] puts back 101818.18181818182 usage.
+[5] Client_27 [753.3306401206303, 279.1872554254261] puts back 56000.0 usage.
+[5] Client_28 [783.5980619907153, -18.87000516595146] puts back 101818.18181818182 usage.
+[5] Client_29 [279.8730521431106, 432.14639833490327] puts back 42857.142857142855 usage.
+[5] Client_30 [908.7555226471422, -544.4621023061359] puts back 25000.0 usage.
+[5] Client_31 [-442.18203364686786, -379.1487307418674] puts back 56000.0 usage.
+[5] Client_32 [772.7581214484737, 854.9364955439796] puts back 56000.0 usage.
+[5] Client_33 [490.8993785829977, -1069.2145758218041] puts back 66666.66666666667 usage.
+[5] Client_34 [-552.3655804244489, 478.7298917178744] puts back 13333.333333333334 usage.
+[5] Client_35 [232.12479082117588, -393.6901358680927] puts back 42857.142857142855 usage.
+[5] Client_36 [802.761456035841, 1213.8817198266192] puts back 50000.0 usage.
+[5] Client_37 [-94.31413787180853, 328.34319148942194] puts back 42857.142857142855 usage.
+[5] Client_38 [754.7510770347673, 498.5556575630978] puts back 101818.18181818182 usage.
+[5] Client_39 [565.801891498397, 1041.5358322757747] puts back 101818.18181818182 usage.
+[5] Client_40 [337.9510487991602, -1458.779254437326] puts back 66666.66666666667 usage.
+[5] Client_41 [713.5882696885589, 114.29784346596219] puts back 101818.18181818182 usage.
+[5] Client_42 [482.89914281513234, 747.0929460872787] puts back 101818.18181818182 usage.
+[5] Client_43 [-208.17041452143837, 670.0962648221797] puts back 120000.0 usage.
+[5] Client_44 [-1396.2749069250608, 610.5944773949631] puts back 120000.0 usage.
+[5] Client_45 [415.1771425819818, 691.4597675389517] puts back 56000.0 usage.
+[5] Client_46 [40.79144814228835, -358.15228327883995] puts back 42857.142857142855 usage.
+[5] Client_48 [5.238181683778516, -595.2696022757432] puts back 66666.66666666667 usage.
+[5] Client_50 [707.1110515024003, -54.33752168361981] puts back 101818.18181818182 usage.
+[5] Client_51 [-409.3397219719178, 133.95743837291005] puts back 57142.857142857145 usage.
+[5] Client_52 [-220.3905576152447, -745.1909265328878] puts back 76000.0 usage.
+[5] Client_53 [559.6192715796054, -128.15908014181693] puts back 42857.142857142855 usage.
+[5] Client_54 [549.1261622566125, -865.8803876233465] puts back 66666.66666666667 usage.
+[5] Client_55 [-361.88915219461836, -83.98731713337621] puts back 42857.142857142855 usage.
+[5] Client_56 [-143.60044687284932, 770.6146132946182] puts back 13333.333333333334 usage.
+[5] Client_57 [-35.59787908276157, -535.9867956682325] puts back 56000.0 usage.
+[5] Client_58 [-622.0346949319267, 195.49048610854882] puts back 13333.333333333334 usage.
+[5] Client_59 [103.40712291021518, 462.6067133372688] puts back 57142.857142857145 usage.
+[5] Client_60 [-328.86491571265776, 458.1422177522374] puts back 42857.142857142855 usage.
+[5] Client_61 [1470.2870699077914, 271.1712844879999] puts back 101818.18181818182 usage.
+[5] Client_62 [342.21834870220675, -40.74976295568708] puts back 42857.142857142855 usage.
+[5] Client_63 [294.02239853052015, 9.22426243250868] puts back 57142.857142857145 usage.
+[5] Client_64 [208.09509705217303, -554.5097491193984] puts back 25000.0 usage.
+[5] Client_65 [-184.683711565974, 849.4116997851984] puts back 120000.0 usage.
+[5] Client_66 [27.75509096091415, -527.2064500535522] puts back 42857.142857142855 usage.
+[5] Client_67 [-225.6188950055576, 643.438880168715] puts back 120000.0 usage.
+[5] Client_68 [-403.62381722109023, -136.1002543172273] puts back 56000.0 usage.
+[5] Client_69 [1346.2871895659305, 348.5361016150052] puts back 101818.18181818182 usage.
+[5] Client_72 [186.6282508195434, -208.38030751294306] puts back 42857.142857142855 usage.
+[5] Client_73 [-294.1960308748086, -234.9220569866411] puts back 76000.0 usage.
+[5] Client_74 [-22.04279752675686, 500.57018933651267] puts back 42857.142857142855 usage.
+[5] Client_75 [-92.13098117788074, -576.0087376814721] puts back 76000.0 usage.
+[5] Client_76 [651.8113956173864, -307.8967474988879] puts back 66666.66666666667 usage.
+[5] Client_78 [-302.70256325974236, -134.67785077409803] puts back 57142.857142857145 usage.
+[5] Client_79 [86.16483282330512, 324.43571567814035] puts back 42857.142857142855 usage.
+[5] Client_80 [-265.70800494367285, 625.9849538964801] puts back 13333.333333333334 usage.
+[5] Client_82 [-634.621215781797, 244.90700742519488] puts back 120000.0 usage.
+[5] Client_83 [-70.67927375304832, -287.68241712217167] puts back 42857.142857142855 usage.
+[5] Client_85 [890.7179803344069, -738.6265471437418] puts back 25000.0 usage.
+[5] Client_87 [-693.9660485252878, 862.8710212484106] puts back 120000.0 usage.
+[5] Client_88 [24.98983628886379, -800.8046627239642] puts back 66666.66666666667 usage.
+[5] Client_89 [-4.225514913176302, -889.4044362640432] puts back 25000.0 usage.
+[5] Client_91 [-846.290973778547, 192.92809754219718] puts back 120000.0 usage.
+[5] Client_92 [402.31029763690293, -971.185859413259] puts back 66666.66666666667 usage.
+[5] Client_93 [695.4313787967442, -400.60423698935807] puts back 66666.66666666667 usage.
+[5] Client_94 [45.49736457769934, 506.5968807322438] puts back 57142.857142857145 usage.
+[5] Client_95 [-628.3833567779094, 1387.989352513923] puts back 13333.333333333334 usage.
+[5] Client_96 [-295.4854805389919, -631.9311549062323] puts back 76000.0 usage.
+[5] Client_97 [284.5746292924154, -89.49044304128263] puts back 42857.142857142855 usage.
+[5] Client_98 [651.2068182475838, 96.15510629365966] puts back 56000.0 usage.
+[5] Client_99 [-1270.403154679887, 863.8825421558689] puts back 13333.333333333334 usage.
+KDTREE CALL [5] - limit: 5
+[6] Client_0 [617.0266862306073, 784.3203477399862] gets 101818.18181818182 usage.
+[6] Client_1 [33.32756295172358, -690.0794004090932] gets 66666.66666666667 usage.
+[6] Client_2 [-865.1412554442572, 94.1031487308485] gets 13333.333333333334 usage.
+[6] Client_4 [39.08155281026917, -39.11512318397403] gets 57142.857142857145 usage.
+[6] Client_5 [-927.1554639698275, 176.4509855524512] gets 13333.333333333334 usage.
+[6] Client_6 [-826.407241384502, 944.5600107333661] gets 120000.0 usage.
+[6] Client_7 [-635.9376165658606, -285.4416644628394] gets 76000.0 usage.
+[6] Client_8 [43.61011316834111, -622.7585501265332] gets 25000.0 usage.
+[6] Client_10 [327.5520889206468, -449.6706715950173] gets 66666.66666666667 usage.
+[6] Client_11 [-502.5406490986195, -999.2897290821866] gets 76000.0 usage.
+[6] Client_13 [-1075.123736611846, 936.6167270073162] gets 13333.333333333334 usage.
+[6] Client_14 [311.1972609525046, 38.91979007691974] gets 57142.857142857145 usage.
+[6] Client_15 [-765.6604524203435, -237.84895106646832] gets 76000.0 usage.
+[6] Client_16 [753.7009680937862, 139.5749043005159] gets 56000.0 usage.
+[6] Client_17 [-240.7100740098126, 1314.8852987087428] gets 120000.0 usage.
+[6] Client_18 [203.6706265587022, -605.4613396071989] gets 25000.0 usage.
+[6] Client_19 [623.0567556483687, -221.72474560483155] gets 25000.0 usage.
+[6] Client_20 [835.606145364539, 413.93292921936967] gets 101818.18181818182 usage.
+[6] Client_22 [1275.9232090240837, 1224.4939901415526] gets 50000.0 usage.
+[6] Client_23 [468.0054933617128, -545.155187670043] gets 66666.66666666667 usage.
+[6] Client_24 [495.73949446444186, -722.6414356153962] gets 25000.0 usage.
+[6] Client_25 [642.2003885028225, -144.6513536467535] gets 66666.66666666667 usage.
+[6] Client_26 [506.6402372783615, 405.02836053676117] gets 101818.18181818182 usage.
+[6] Client_27 [754.600835306268, 280.7579718630328] gets 56000.0 usage.
+[6] Client_28 [784.5980619907153, -17.87000516595146] gets 101818.18181818182 usage.
+[6] Client_29 [280.8730521431106, 432.14639833490327] gets 42857.142857142855 usage.
+[6] Client_30 [909.7555226471422, -544.4621023061359] gets 25000.0 usage.
+[6] Client_31 [-441.18203364686786, -378.1487307418674] gets 56000.0 usage.
+[6] Client_32 [774.1612347706828, 855.4387393615948] gets 56000.0 usage.
+[6] Client_33 [492.4208456305984, -1069.8381175826873] gets 66666.66666666667 usage.
+[6] Client_34 [-551.3655804244489, 479.7298917178744] gets 13333.333333333334 usage.
+[6] Client_35 [231.81811349670915, -394.8963084767766] gets 42857.142857142855 usage.
+[6] Client_36 [802.761456035841, 1214.8817198266192] gets 50000.0 usage.
+[6] Client_37 [-95.76793012665082, 328.10752750624385] gets 42857.142857142855 usage.
+[6] Client_38 [755.5779560884139, 499.9895603898346] gets 101818.18181818182 usage.
+[6] Client_39 [565.801891498397, 1041.5358322757747] gets 101818.18181818182 usage.
+[6] Client_40 [337.9510487991602, -1457.779254437326] gets 66666.66666666667 usage.
+[6] Client_41 [714.5882696885589, 115.29784346596219] gets 101818.18181818182 usage.
+[6] Client_42 [483.8705299466044, 746.6702301683072] gets 101818.18181818182 usage.
+[6] Client_43 [-208.17041452143837, 670.0962648221797] gets 120000.0 usage.
+[6] Client_44 [-1395.2749069250608, 610.5944773949631] gets 120000.0 usage.
+[6] Client_45 [416.1771425819818, 691.4597675389517] gets 56000.0 usage.
+[6] Client_46 [41.539783383282135, -359.17321489149833] gets 42857.142857142855 usage.
+[6] Client_48 [4.238505229226179, -594.8725600917074] gets 66666.66666666667 usage.
+[6] Client_50 [707.6413659366788, -54.449081006085585] gets 101818.18181818182 usage.
+[6] Client_51 [-407.5488217895337, 133.7373294662894] gets 57142.857142857145 usage.
+[6] Client_52 [-219.3905576152447, -745.1909265328878] gets 76000.0 usage.
+[6] Client_53 [560.6192715796054, -127.15908014181693] gets 42857.142857142855 usage.
+[6] Client_54 [547.1433795507303, -866.4239417056598] gets 66666.66666666667 usage.
+[6] Client_55 [-360.88915219461836, -83.98731713337621] gets 42857.142857142855 usage.
+[6] Client_56 [-144.3496490011197, 771.0691250730949] gets 13333.333333333334 usage.
+[6] Client_57 [-36.66346653845177, -534.7251621935208] gets 56000.0 usage.
+[6] Client_58 [-622.052420063446, 194.1109095941874] gets 13333.333333333334 usage.
+[6] Client_59 [104.40712291021518, 463.6067133372688] gets 57142.857142857145 usage.
+[6] Client_60 [-327.25889266928334, 458.2265632095021] gets 42857.142857142855 usage.
+[6] Client_61 [1470.2870699077914, 271.1712844879999] gets 101818.18181818182 usage.
+[6] Client_62 [342.9672246343994, -39.82683219859477] gets 42857.142857142855 usage.
+[6] Client_63 [293.18013970345527, 9.762924122503719] gets 57142.857142857145 usage.
+[6] Client_64 [208.09509705217303, -553.5097491193984] gets 25000.0 usage.
+[6] Client_65 [-183.683711565974, 849.4116997851984] gets 120000.0 usage.
+[6] Client_66 [27.75509096091415, -526.2064500535522] gets 42857.142857142855 usage.
+[6] Client_67 [-224.6188950055576, 644.438880168715] gets 120000.0 usage.
+[6] Client_68 [-403.44254097572144, -135.31797237736626] gets 56000.0 usage.
+[6] Client_69 [1346.2871895659305, 348.5361016150052] gets 101818.18181818182 usage.
+[6] Client_72 [186.59422731260108, -208.23907203509654] gets 42857.142857142855 usage.
+[6] Client_73 [-294.1960308748086, -234.9220569866411] gets 76000.0 usage.
+[6] Client_74 [-22.04279752675686, 500.57018933651267] gets 42857.142857142855 usage.
+[6] Client_75 [-91.13098117788074, -575.0087376814721] gets 76000.0 usage.
+[6] Client_76 [651.8113956173864, -307.8967474988879] gets 66666.66666666667 usage.
+[6] Client_78 [-302.70256325974236, -134.67785077409803] gets 57142.857142857145 usage.
+[6] Client_79 [86.29222427165183, 325.52326522537106] gets 42857.142857142855 usage.
+[6] Client_80 [-265.1756507015095, 626.1917596232354] gets 13333.333333333334 usage.
+[6] Client_82 [-633.621215781797, 245.90700742519488] gets 120000.0 usage.
+[6] Client_83 [-69.67927375304832, -286.68241712217167] gets 42857.142857142855 usage.
+[6] Client_85 [892.2488867345689, -737.9895766015744] gets 25000.0 usage.
+[6] Client_87 [-692.9660485252878, 863.8710212484106] gets 120000.0 usage.
+[6] Client_88 [24.98983628886379, -800.8046627239642] gets 66666.66666666667 usage.
+[6] Client_89 [-4.4759802938285125, -889.8199986073464] gets 25000.0 usage.
+[6] Client_91 [-847.6076080564834, 193.726329270009] gets 120000.0 usage.
+[6] Client_92 [402.31029763690293, -971.185859413259] gets 66666.66666666667 usage.
+[6] Client_93 [696.4313787967442, -400.60423698935807] gets 66666.66666666667 usage.
+[6] Client_94 [46.49736457769934, 506.5968807322438] gets 57142.857142857145 usage.
+[6] Client_95 [-628.5728506814683, 1386.8822634075057] gets 13333.333333333334 usage.
+[6] Client_96 [-294.4854805389919, -631.9311549062323] gets 76000.0 usage.
+[6] Client_97 [284.5746292924154, -88.49044304128263] gets 42857.142857142855 usage.
+[6] Client_98 [651.840257477579, 97.96863894357733] gets 56000.0 usage.
+[6] Client_99 [-1269.403154679887, 863.8825421558689] gets 13333.333333333334 usage.
+[6] Client_0 [617.0266862306073, 784.3203477399862] puts back 101818.18181818182 usage.
+[6] Client_1 [33.32756295172358, -690.0794004090932] puts back 66666.66666666667 usage.
+[6] Client_2 [-865.1412554442572, 94.1031487308485] puts back 13333.333333333334 usage.
+[6] Client_4 [39.08155281026917, -39.11512318397403] puts back 57142.857142857145 usage.
+[6] Client_5 [-927.1554639698275, 176.4509855524512] puts back 13333.333333333334 usage.
+[6] Client_6 [-826.407241384502, 944.5600107333661] puts back 120000.0 usage.
+[6] Client_7 [-635.9376165658606, -285.4416644628394] puts back 76000.0 usage.
+[6] Client_8 [43.61011316834111, -622.7585501265332] puts back 25000.0 usage.
+[6] Client_10 [327.5520889206468, -449.6706715950173] puts back 66666.66666666667 usage.
+[6] Client_11 [-502.5406490986195, -999.2897290821866] puts back 76000.0 usage.
+[6] Client_13 [-1075.123736611846, 936.6167270073162] puts back 13333.333333333334 usage.
+[6] Client_14 [311.1972609525046, 38.91979007691974] puts back 57142.857142857145 usage.
+[6] Client_15 [-765.6604524203435, -237.84895106646832] puts back 76000.0 usage.
+[6] Client_16 [753.7009680937862, 139.5749043005159] puts back 56000.0 usage.
+[6] Client_17 [-240.7100740098126, 1314.8852987087428] puts back 120000.0 usage.
+[6] Client_18 [203.6706265587022, -605.4613396071989] puts back 25000.0 usage.
+[6] Client_19 [623.0567556483687, -221.72474560483155] puts back 25000.0 usage.
+[6] Client_20 [835.606145364539, 413.93292921936967] puts back 101818.18181818182 usage.
+[6] Client_22 [1275.9232090240837, 1224.4939901415526] puts back 50000.0 usage.
+[6] Client_23 [468.0054933617128, -545.155187670043] puts back 66666.66666666667 usage.
+[6] Client_24 [495.73949446444186, -722.6414356153962] puts back 25000.0 usage.
+[6] Client_25 [642.2003885028225, -144.6513536467535] puts back 66666.66666666667 usage.
+[6] Client_26 [506.6402372783615, 405.02836053676117] puts back 101818.18181818182 usage.
+[6] Client_27 [754.600835306268, 280.7579718630328] puts back 56000.0 usage.
+[6] Client_28 [784.5980619907153, -17.87000516595146] puts back 101818.18181818182 usage.
+[6] Client_29 [280.8730521431106, 432.14639833490327] puts back 42857.142857142855 usage.
+[6] Client_30 [909.7555226471422, -544.4621023061359] puts back 25000.0 usage.
+[6] Client_31 [-441.18203364686786, -378.1487307418674] puts back 56000.0 usage.
+[6] Client_32 [774.1612347706828, 855.4387393615948] puts back 56000.0 usage.
+[6] Client_33 [492.4208456305984, -1069.8381175826873] puts back 66666.66666666667 usage.
+[6] Client_34 [-551.3655804244489, 479.7298917178744] puts back 13333.333333333334 usage.
+[6] Client_35 [231.81811349670915, -394.8963084767766] puts back 42857.142857142855 usage.
+[6] Client_36 [802.761456035841, 1214.8817198266192] puts back 50000.0 usage.
+[6] Client_37 [-95.76793012665082, 328.10752750624385] puts back 42857.142857142855 usage.
+[6] Client_38 [755.5779560884139, 499.9895603898346] puts back 101818.18181818182 usage.
+[6] Client_39 [565.801891498397, 1041.5358322757747] puts back 101818.18181818182 usage.
+[6] Client_40 [337.9510487991602, -1457.779254437326] puts back 66666.66666666667 usage.
+[6] Client_41 [714.5882696885589, 115.29784346596219] puts back 101818.18181818182 usage.
+[6] Client_42 [483.8705299466044, 746.6702301683072] puts back 101818.18181818182 usage.
+[6] Client_43 [-208.17041452143837, 670.0962648221797] puts back 120000.0 usage.
+[6] Client_44 [-1395.2749069250608, 610.5944773949631] puts back 120000.0 usage.
+[6] Client_45 [416.1771425819818, 691.4597675389517] puts back 56000.0 usage.
+[6] Client_46 [41.539783383282135, -359.17321489149833] puts back 42857.142857142855 usage.
+[6] Client_48 [4.238505229226179, -594.8725600917074] puts back 66666.66666666667 usage.
+[6] Client_50 [707.6413659366788, -54.449081006085585] puts back 101818.18181818182 usage.
+[6] Client_51 [-407.5488217895337, 133.7373294662894] puts back 57142.857142857145 usage.
+[6] Client_52 [-219.3905576152447, -745.1909265328878] puts back 76000.0 usage.
+[6] Client_53 [560.6192715796054, -127.15908014181693] puts back 42857.142857142855 usage.
+[6] Client_54 [547.1433795507303, -866.4239417056598] puts back 66666.66666666667 usage.
+[6] Client_55 [-360.88915219461836, -83.98731713337621] puts back 42857.142857142855 usage.
+[6] Client_56 [-144.3496490011197, 771.0691250730949] puts back 13333.333333333334 usage.
+[6] Client_57 [-36.66346653845177, -534.7251621935208] puts back 56000.0 usage.
+[6] Client_58 [-622.052420063446, 194.1109095941874] puts back 13333.333333333334 usage.
+[6] Client_59 [104.40712291021518, 463.6067133372688] puts back 57142.857142857145 usage.
+[6] Client_60 [-327.25889266928334, 458.2265632095021] puts back 42857.142857142855 usage.
+[6] Client_61 [1470.2870699077914, 271.1712844879999] puts back 101818.18181818182 usage.
+[6] Client_62 [342.9672246343994, -39.82683219859477] puts back 42857.142857142855 usage.
+[6] Client_63 [293.18013970345527, 9.762924122503719] puts back 57142.857142857145 usage.
+[6] Client_64 [208.09509705217303, -553.5097491193984] puts back 25000.0 usage.
+[6] Client_65 [-183.683711565974, 849.4116997851984] puts back 120000.0 usage.
+[6] Client_66 [27.75509096091415, -526.2064500535522] puts back 42857.142857142855 usage.
+[6] Client_67 [-224.6188950055576, 644.438880168715] puts back 120000.0 usage.
+[6] Client_68 [-403.44254097572144, -135.31797237736626] puts back 56000.0 usage.
+[6] Client_69 [1346.2871895659305, 348.5361016150052] puts back 101818.18181818182 usage.
+[6] Client_72 [186.59422731260108, -208.23907203509654] puts back 42857.142857142855 usage.
+[6] Client_73 [-294.1960308748086, -234.9220569866411] puts back 76000.0 usage.
+[6] Client_74 [-22.04279752675686, 500.57018933651267] puts back 42857.142857142855 usage.
+[6] Client_75 [-91.13098117788074, -575.0087376814721] puts back 76000.0 usage.
+[6] Client_76 [651.8113956173864, -307.8967474988879] puts back 66666.66666666667 usage.
+[6] Client_78 [-302.70256325974236, -134.67785077409803] puts back 57142.857142857145 usage.
+[6] Client_79 [86.29222427165183, 325.52326522537106] puts back 42857.142857142855 usage.
+[6] Client_80 [-265.1756507015095, 626.1917596232354] puts back 13333.333333333334 usage.
+[6] Client_82 [-633.621215781797, 245.90700742519488] puts back 120000.0 usage.
+[6] Client_83 [-69.67927375304832, -286.68241712217167] puts back 42857.142857142855 usage.
+[6] Client_85 [892.2488867345689, -737.9895766015744] puts back 25000.0 usage.
+[6] Client_87 [-692.9660485252878, 863.8710212484106] puts back 120000.0 usage.
+[6] Client_88 [24.98983628886379, -800.8046627239642] puts back 66666.66666666667 usage.
+[6] Client_89 [-4.4759802938285125, -889.8199986073464] puts back 25000.0 usage.
+[6] Client_91 [-847.6076080564834, 193.726329270009] puts back 120000.0 usage.
+[6] Client_92 [402.31029763690293, -971.185859413259] puts back 66666.66666666667 usage.
+[6] Client_93 [696.4313787967442, -400.60423698935807] puts back 66666.66666666667 usage.
+[6] Client_94 [46.49736457769934, 506.5968807322438] puts back 57142.857142857145 usage.
+[6] Client_95 [-628.5728506814683, 1386.8822634075057] puts back 13333.333333333334 usage.
+[6] Client_96 [-294.4854805389919, -631.9311549062323] puts back 76000.0 usage.
+[6] Client_97 [284.5746292924154, -88.49044304128263] puts back 42857.142857142855 usage.
+[6] Client_98 [651.840257477579, 97.96863894357733] puts back 56000.0 usage.
+[6] Client_99 [-1269.403154679887, 863.8825421558689] puts back 13333.333333333334 usage.
+KDTREE CALL [6] - limit: 5
+[7] Client_0 [618.0266862306073, 784.3203477399862] gets 101818.18181818182 usage.
+[7] Client_1 [34.72701478705244, -689.6193600674837] gets 66666.66666666667 usage.
+[7] Client_2 [-864.1412554442572, 94.1031487308485] gets 13333.333333333334 usage.
+[7] Client_4 [40.513181696607376, -38.65870616822513] gets 57142.857142857145 usage.
+[7] Client_5 [-926.1255830756678, 177.85797745184186] gets 13333.333333333334 usage.
+[7] Client_6 [-826.407241384502, 944.5600107333661] gets 120000.0 usage.
+[7] Client_7 [-634.9376165658606, -285.4416644628394] gets 76000.0 usage.
+[7] Client_8 [43.61011316834111, -621.7585501265332] gets 25000.0 usage.
+[7] Client_10 [327.9948289399238, -449.3653154951624] gets 66666.66666666667 usage.
+[7] Client_11 [-502.22214412251753, -997.2339339843674] gets 76000.0 usage.
+[7] Client_13 [-1074.123736611846, 937.6167270073162] gets 13333.333333333334 usage.
+[7] Client_14 [312.1972609525046, 38.91979007691974] gets 57142.857142857145 usage.
+[7] Client_15 [-765.0843847740587, -238.79675311323766] gets 76000.0 usage.
+[7] Client_16 [752.9477619138759, 138.77175920811936] gets 56000.0 usage.
+[7] Client_17 [-242.09471087562514, 1314.908960590227] gets 120000.0 usage.
+[7] Client_18 [205.2288656160066, -604.4735648680339] gets 25000.0 usage.
+[7] Client_19 [624.0567556483687, -221.72474560483155] gets 25000.0 usage.
+[7] Client_20 [836.606145364539, 413.93292921936967] gets 101818.18181818182 usage.
+[7] Client_22 [1277.383722161992, 1225.1923311377473] gets 50000.0 usage.
+[7] Client_23 [469.0054933617128, -544.155187670043] gets 66666.66666666667 usage.
+[7] Client_24 [496.6161170124638, -722.1288153336956] gets 25000.0 usage.
+[7] Client_25 [642.2003885028225, -143.6513536467535] gets 66666.66666666667 usage.
+[7] Client_26 [506.6402372783615, 406.02836053676117] gets 101818.18181818182 usage.
+[7] Client_27 [753.6257348904983, 280.51290430653853] gets 56000.0 usage.
+[7] Client_28 [785.5980619907153, -17.87000516595146] gets 101818.18181818182 usage.
+[7] Client_29 [280.8730521431106, 432.14639833490327] gets 42857.142857142855 usage.
+[7] Client_30 [910.7555226471422, -544.4621023061359] gets 25000.0 usage.
+[7] Client_31 [-440.18203364686786, -377.1487307418674] gets 56000.0 usage.
+[7] Client_32 [774.3809849975324, 855.3042717299537] gets 56000.0 usage.
+[7] Client_33 [491.7154421836416, -1071.7519038248035] gets 66666.66666666667 usage.
+[7] Client_34 [-551.3655804244489, 479.7298917178744] gets 13333.333333333334 usage.
+[7] Client_35 [230.13875891941677, -394.4888482357248] gets 42857.142857142855 usage.
+[7] Client_36 [802.761456035841, 1214.8817198266192] gets 50000.0 usage.
+[7] Client_37 [-96.19901364148868, 328.35756131990576] gets 42857.142857142855 usage.
+[7] Client_38 [754.3815544290869, 500.1516650533613] gets 101818.18181818182 usage.
+[7] Client_39 [565.801891498397, 1041.5358322757747] gets 101818.18181818182 usage.
+[7] Client_40 [338.9510487991602, -1457.779254437326] gets 66666.66666666667 usage.
+[7] Client_41 [714.5882696885589, 115.29784346596219] gets 101818.18181818182 usage.
+[7] Client_42 [484.2321569632371, 747.0372731024664] gets 101818.18181818182 usage.
+[7] Client_43 [-208.17041452143837, 670.0962648221797] gets 120000.0 usage.
+[7] Client_44 [-1394.2749069250608, 611.5944773949631] gets 120000.0 usage.
+[7] Client_45 [417.1771425819818, 692.4597675389517] gets 56000.0 usage.
+[7] Client_46 [41.65659713480135, -360.94780175004325] gets 42857.142857142855 usage.
+[7] Client_48 [2.8135346010222735, -594.7524091859393] gets 66666.66666666667 usage.
+[7] Client_50 [707.0444683409894, -55.10181790518202] gets 101818.18181818182 usage.
+[7] Client_51 [-407.64036796981134, 133.9941304605409] gets 57142.857142857145 usage.
+[7] Client_52 [-219.3905576152447, -744.1909265328878] gets 76000.0 usage.
+[7] Client_53 [561.6192715796054, -126.15908014181693] gets 42857.142857142855 usage.
+[7] Client_54 [548.6339435566607, -866.4843349631027] gets 66666.66666666667 usage.
+[7] Client_55 [-360.88915219461836, -82.98731713337621] gets 42857.142857142855 usage.
+[7] Client_56 [-143.94656832168135, 769.8279256156604] gets 13333.333333333334 usage.
+[7] Client_57 [-35.25747094783811, -534.6210777244561] gets 56000.0 usage.
+[7] Client_58 [-622.2748829409018, 193.15940591133605] gets 13333.333333333334 usage.
+[7] Client_59 [105.40712291021518, 463.6067133372688] gets 57142.857142857145 usage.
+[7] Client_60 [-327.7802709255321, 456.20476524145624] gets 42857.142857142855 usage.
+[7] Client_61 [1470.2870699077914, 271.1712844879999] gets 101818.18181818182 usage.
+[7] Client_62 [342.66524239136396, -39.23733144852398] gets 42857.142857142855 usage.
+[7] Client_63 [291.57281250126147, 9.934884961149384] gets 57142.857142857145 usage.
+[7] Client_64 [208.09509705217303, -553.5097491193984] gets 25000.0 usage.
+[7] Client_65 [-183.683711565974, 850.4116997851984] gets 120000.0 usage.
+[7] Client_66 [28.75509096091415, -525.2064500535522] gets 42857.142857142855 usage.
+[7] Client_67 [-223.6188950055576, 645.438880168715] gets 120000.0 usage.
+[7] Client_68 [-404.0860812066238, -135.25934616644233] gets 56000.0 usage.
+[7] Client_69 [1347.2871895659305, 349.5361016150052] gets 101818.18181818182 usage.
+[7] Client_72 [183.76940780601427, -208.1272762915264] gets 42857.142857142855 usage.
+[7] Client_73 [-293.1960308748086, -234.9220569866411] gets 76000.0 usage.
+[7] Client_74 [-21.04279752675686, 500.57018933651267] gets 42857.142857142855 usage.
+[7] Client_75 [-91.13098117788074, -575.0087376814721] gets 76000.0 usage.
+[7] Client_76 [651.8113956173864, -307.8967474988879] gets 66666.66666666667 usage.
+[7] Client_78 [-302.70256325974236, -133.67785077409803] gets 57142.857142857145 usage.
+[7] Client_79 [88.05955889138127, 326.2966401385654] gets 42857.142857142855 usage.
+[7] Client_80 [-265.3414672700593, 624.5169347696119] gets 13333.333333333334 usage.
+[7] Client_82 [-632.621215781797, 245.90700742519488] gets 120000.0 usage.
+[7] Client_83 [-69.67927375304832, -285.68241712217167] gets 42857.142857142855 usage.
+[7] Client_85 [892.9560298716242, -736.6705615857207] gets 25000.0 usage.
+[7] Client_87 [-691.9660485252878, 863.8710212484106] gets 120000.0 usage.
+[7] Client_88 [24.98983628886379, -799.8046627239642] gets 66666.66666666667 usage.
+[7] Client_89 [-4.3711998859221515, -890.0875821615497] gets 25000.0 usage.
+[7] Client_91 [-848.4766823453779, 190.3183769348744] gets 120000.0 usage.
+[7] Client_92 [402.31029763690293, -971.185859413259] gets 66666.66666666667 usage.
+[7] Client_93 [696.4313787967442, -399.60423698935807] gets 66666.66666666667 usage.
+[7] Client_94 [46.49736457769934, 506.5968807322438] gets 57142.857142857145 usage.
+[7] Client_95 [-627.9985348346518, 1386.5138360193826] gets 13333.333333333334 usage.
+[7] Client_96 [-294.4854805389919, -630.9311549062323] gets 76000.0 usage.
+[7] Client_97 [284.5746292924154, -88.49044304128263] gets 42857.142857142855 usage.
+[7] Client_98 [652.0461742543431, 97.46470337724881] gets 56000.0 usage.
+[7] Client_99 [-1269.403154679887, 863.8825421558689] gets 13333.333333333334 usage.
+[7] Client_0 [618.0266862306073, 784.3203477399862] puts back 101818.18181818182 usage.
+[7] Client_1 [34.72701478705244, -689.6193600674837] puts back 66666.66666666667 usage.
+[7] Client_2 [-864.1412554442572, 94.1031487308485] puts back 13333.333333333334 usage.
+[7] Client_4 [40.513181696607376, -38.65870616822513] puts back 57142.857142857145 usage.
+[7] Client_5 [-926.1255830756678, 177.85797745184186] puts back 13333.333333333334 usage.
+[7] Client_6 [-826.407241384502, 944.5600107333661] puts back 120000.0 usage.
+[7] Client_7 [-634.9376165658606, -285.4416644628394] puts back 76000.0 usage.
+[7] Client_8 [43.61011316834111, -621.7585501265332] puts back 25000.0 usage.
+[7] Client_10 [327.9948289399238, -449.3653154951624] puts back 66666.66666666667 usage.
+[7] Client_11 [-502.22214412251753, -997.2339339843674] puts back 76000.0 usage.
+[7] Client_13 [-1074.123736611846, 937.6167270073162] puts back 13333.333333333334 usage.
+[7] Client_14 [312.1972609525046, 38.91979007691974] puts back 57142.857142857145 usage.
+[7] Client_15 [-765.0843847740587, -238.79675311323766] puts back 76000.0 usage.
+[7] Client_16 [752.9477619138759, 138.77175920811936] puts back 56000.0 usage.
+[7] Client_17 [-242.09471087562514, 1314.908960590227] puts back 120000.0 usage.
+[7] Client_18 [205.2288656160066, -604.4735648680339] puts back 25000.0 usage.
+[7] Client_19 [624.0567556483687, -221.72474560483155] puts back 25000.0 usage.
+[7] Client_20 [836.606145364539, 413.93292921936967] puts back 101818.18181818182 usage.
+[7] Client_22 [1277.383722161992, 1225.1923311377473] puts back 50000.0 usage.
+[7] Client_23 [469.0054933617128, -544.155187670043] puts back 66666.66666666667 usage.
+[7] Client_24 [496.6161170124638, -722.1288153336956] puts back 25000.0 usage.
+[7] Client_25 [642.2003885028225, -143.6513536467535] puts back 66666.66666666667 usage.
+[7] Client_26 [506.6402372783615, 406.02836053676117] puts back 101818.18181818182 usage.
+[7] Client_27 [753.6257348904983, 280.51290430653853] puts back 56000.0 usage.
+[7] Client_28 [785.5980619907153, -17.87000516595146] puts back 101818.18181818182 usage.
+[7] Client_29 [280.8730521431106, 432.14639833490327] puts back 42857.142857142855 usage.
+[7] Client_30 [910.7555226471422, -544.4621023061359] puts back 25000.0 usage.
+[7] Client_31 [-440.18203364686786, -377.1487307418674] puts back 56000.0 usage.
+[7] Client_32 [774.3809849975324, 855.3042717299537] puts back 56000.0 usage.
+[7] Client_33 [491.7154421836416, -1071.7519038248035] puts back 66666.66666666667 usage.
+[7] Client_34 [-551.3655804244489, 479.7298917178744] puts back 13333.333333333334 usage.
+[7] Client_35 [230.13875891941677, -394.4888482357248] puts back 42857.142857142855 usage.
+[7] Client_36 [802.761456035841, 1214.8817198266192] puts back 50000.0 usage.
+[7] Client_37 [-96.19901364148868, 328.35756131990576] puts back 42857.142857142855 usage.
+[7] Client_38 [754.3815544290869, 500.1516650533613] puts back 101818.18181818182 usage.
+[7] Client_39 [565.801891498397, 1041.5358322757747] puts back 101818.18181818182 usage.
+[7] Client_40 [338.9510487991602, -1457.779254437326] puts back 66666.66666666667 usage.
+[7] Client_41 [714.5882696885589, 115.29784346596219] puts back 101818.18181818182 usage.
+[7] Client_42 [484.2321569632371, 747.0372731024664] puts back 101818.18181818182 usage.
+[7] Client_43 [-208.17041452143837, 670.0962648221797] puts back 120000.0 usage.
+[7] Client_44 [-1394.2749069250608, 611.5944773949631] puts back 120000.0 usage.
+[7] Client_45 [417.1771425819818, 692.4597675389517] puts back 56000.0 usage.
+[7] Client_46 [41.65659713480135, -360.94780175004325] puts back 42857.142857142855 usage.
+[7] Client_48 [2.8135346010222735, -594.7524091859393] puts back 66666.66666666667 usage.
+[7] Client_50 [707.0444683409894, -55.10181790518202] puts back 101818.18181818182 usage.
+[7] Client_51 [-407.64036796981134, 133.9941304605409] puts back 57142.857142857145 usage.
+[7] Client_52 [-219.3905576152447, -744.1909265328878] puts back 76000.0 usage.
+[7] Client_53 [561.6192715796054, -126.15908014181693] puts back 42857.142857142855 usage.
+[7] Client_54 [548.6339435566607, -866.4843349631027] puts back 66666.66666666667 usage.
+[7] Client_55 [-360.88915219461836, -82.98731713337621] puts back 42857.142857142855 usage.
+[7] Client_56 [-143.94656832168135, 769.8279256156604] puts back 13333.333333333334 usage.
+[7] Client_57 [-35.25747094783811, -534.6210777244561] puts back 56000.0 usage.
+[7] Client_58 [-622.2748829409018, 193.15940591133605] puts back 13333.333333333334 usage.
+[7] Client_59 [105.40712291021518, 463.6067133372688] puts back 57142.857142857145 usage.
+[7] Client_60 [-327.7802709255321, 456.20476524145624] puts back 42857.142857142855 usage.
+[7] Client_61 [1470.2870699077914, 271.1712844879999] puts back 101818.18181818182 usage.
+[7] Client_62 [342.66524239136396, -39.23733144852398] puts back 42857.142857142855 usage.
+[7] Client_63 [291.57281250126147, 9.934884961149384] puts back 57142.857142857145 usage.
+[7] Client_64 [208.09509705217303, -553.5097491193984] puts back 25000.0 usage.
+[7] Client_65 [-183.683711565974, 850.4116997851984] puts back 120000.0 usage.
+[7] Client_66 [28.75509096091415, -525.2064500535522] puts back 42857.142857142855 usage.
+[7] Client_67 [-223.6188950055576, 645.438880168715] puts back 120000.0 usage.
+[7] Client_68 [-404.0860812066238, -135.25934616644233] puts back 56000.0 usage.
+[7] Client_69 [1347.2871895659305, 349.5361016150052] puts back 101818.18181818182 usage.
+[7] Client_72 [183.76940780601427, -208.1272762915264] puts back 42857.142857142855 usage.
+[7] Client_73 [-293.1960308748086, -234.9220569866411] puts back 76000.0 usage.
+[7] Client_74 [-21.04279752675686, 500.57018933651267] puts back 42857.142857142855 usage.
+[7] Client_75 [-91.13098117788074, -575.0087376814721] puts back 76000.0 usage.
+[7] Client_76 [651.8113956173864, -307.8967474988879] puts back 66666.66666666667 usage.
+[7] Client_78 [-302.70256325974236, -133.67785077409803] puts back 57142.857142857145 usage.
+[7] Client_79 [88.05955889138127, 326.2966401385654] puts back 42857.142857142855 usage.
+[7] Client_80 [-265.3414672700593, 624.5169347696119] puts back 13333.333333333334 usage.
+[7] Client_82 [-632.621215781797, 245.90700742519488] puts back 120000.0 usage.
+[7] Client_83 [-69.67927375304832, -285.68241712217167] puts back 42857.142857142855 usage.
+[7] Client_85 [892.9560298716242, -736.6705615857207] puts back 25000.0 usage.
+[7] Client_87 [-691.9660485252878, 863.8710212484106] puts back 120000.0 usage.
+[7] Client_88 [24.98983628886379, -799.8046627239642] puts back 66666.66666666667 usage.
+[7] Client_89 [-4.3711998859221515, -890.0875821615497] puts back 25000.0 usage.
+[7] Client_91 [-848.4766823453779, 190.3183769348744] puts back 120000.0 usage.
+[7] Client_92 [402.31029763690293, -971.185859413259] puts back 66666.66666666667 usage.
+[7] Client_93 [696.4313787967442, -399.60423698935807] puts back 66666.66666666667 usage.
+[7] Client_94 [46.49736457769934, 506.5968807322438] puts back 57142.857142857145 usage.
+[7] Client_95 [-627.9985348346518, 1386.5138360193826] puts back 13333.333333333334 usage.
+[7] Client_96 [-294.4854805389919, -630.9311549062323] puts back 76000.0 usage.
+[7] Client_97 [284.5746292924154, -88.49044304128263] puts back 42857.142857142855 usage.
+[7] Client_98 [652.0461742543431, 97.46470337724881] puts back 56000.0 usage.
+[7] Client_99 [-1269.403154679887, 863.8825421558689] puts back 13333.333333333334 usage.
+KDTREE CALL [7] - limit: 5
+[8] Client_0 [618.0266862306073, 785.3203477399862] gets 101818.18181818182 usage.
+[8] Client_1 [35.898268711247056, -690.5404642607483] gets 66666.66666666667 usage.
+[8] Client_2 [-864.1412554442572, 94.1031487308485] gets 13333.333333333334 usage.
+[8] Client_4 [41.25005731281811, -39.48993090237878] gets 57142.857142857145 usage.
+[8] Client_5 [-925.4234632165048, 177.61349858960637] gets 13333.333333333334 usage.
+[8] Client_6 [-826.407241384502, 944.5600107333661] gets 120000.0 usage.
+[8] Client_7 [-633.9376165658606, -285.4416644628394] gets 76000.0 usage.
+[8] Client_8 [43.61011316834111, -621.7585501265332] gets 25000.0 usage.
+[8] Client_10 [326.7787818741419, -450.43474212107355] gets 66666.66666666667 usage.
+[8] Client_11 [-502.3773929582006, -995.6541229452158] gets 76000.0 usage.
+[8] Client_13 [-1074.123736611846, 937.6167270073162] gets 13333.333333333334 usage.
+[8] Client_14 [313.1972609525046, 39.91979007691974] gets 57142.857142857145 usage.
+[8] Client_15 [-766.0528246035066, -238.55153928588055] gets 76000.0 usage.
+[8] Client_16 [753.1127276768073, 138.66913603899002] gets 56000.0 usage.
+[8] Client_17 [-240.84025241160316, 1314.3964082608895] gets 120000.0 usage.
+[8] Client_18 [204.82650700125885, -605.0246858541816] gets 25000.0 usage.
+[8] Client_19 [624.0567556483687, -220.72474560483155] gets 25000.0 usage.
+[8] Client_20 [836.606145364539, 414.93292921936967] gets 101818.18181818182 usage.
+[8] Client_22 [1276.514665024859, 1226.8838742607666] gets 50000.0 usage.
+[8] Client_23 [469.0054933617128, -544.155187670043] gets 66666.66666666667 usage.
+[8] Client_24 [496.290033804457, -721.6761359634688] gets 25000.0 usage.
+[8] Client_25 [643.2003885028225, -143.6513536467535] gets 66666.66666666667 usage.
+[8] Client_26 [507.6402372783615, 406.02836053676117] gets 101818.18181818182 usage.
+[8] Client_27 [753.6650972900292, 280.1804343591821] gets 56000.0 usage.
+[8] Client_28 [785.5980619907153, -16.87000516595146] gets 101818.18181818182 usage.
+[8] Client_29 [281.8730521431106, 432.14639833490327] gets 42857.142857142855 usage.
+[8] Client_30 [911.7555226471422, -544.4621023061359] gets 25000.0 usage.
+[8] Client_31 [-440.18203364686786, -377.1487307418674] gets 56000.0 usage.
+[8] Client_32 [773.3789594740238, 855.6713671190311] gets 56000.0 usage.
+[8] Client_33 [492.81132887011614, -1070.3720014093365] gets 66666.66666666667 usage.
+[8] Client_34 [-551.3655804244489, 480.7298917178744] gets 13333.333333333334 usage.
+[8] Client_35 [230.30535301285946, -394.4853150189179] gets 42857.142857142855 usage.
+[8] Client_36 [803.761456035841, 1214.8817198266192] gets 50000.0 usage.
+[8] Client_37 [-96.06736392695518, 328.31433438080967] gets 42857.142857142855 usage.
+[8] Client_38 [756.7351755839684, 500.95632594761605] gets 101818.18181818182 usage.
+[8] Client_39 [565.801891498397, 1042.5358322757747] gets 101818.18181818182 usage.
+[8] Client_40 [339.9510487991602, -1457.779254437326] gets 66666.66666666667 usage.
+[8] Client_41 [714.5882696885589, 115.29784346596219] gets 101818.18181818182 usage.
+[8] Client_42 [485.0732021729522, 746.0635487568006] gets 101818.18181818182 usage.
+[8] Client_43 [-207.17041452143837, 671.0962648221797] gets 120000.0 usage.
+[8] Client_44 [-1393.2749069250608, 611.5944773949631] gets 120000.0 usage.
+[8] Client_45 [417.1771425819818, 693.4597675389517] gets 56000.0 usage.
+[8] Client_46 [42.9479698588788, -360.8976446044219] gets 42857.142857142855 usage.
+[8] Client_48 [4.453311256362014, -595.1506373253754] gets 66666.66666666667 usage.
+[8] Client_50 [706.5382110986646, -55.42567947681939] gets 101818.18181818182 usage.
+[8] Client_51 [-408.71153053468765, 134.31368297664534] gets 57142.857142857145 usage.
+[8] Client_52 [-219.3905576152447, -743.1909265328878] gets 76000.0 usage.
+[8] Client_53 [562.6192715796054, -126.15908014181693] gets 42857.142857142855 usage.
+[8] Client_54 [547.2210689814401, -866.8902090329539] gets 66666.66666666667 usage.
+[8] Client_55 [-359.88915219461836, -81.98731713337621] gets 42857.142857142855 usage.
+[8] Client_56 [-144.6152055560674, 769.9656932373684] gets 13333.333333333334 usage.
+[8] Client_57 [-34.48598360576774, -534.7528165722995] gets 56000.0 usage.
+[8] Client_58 [-623.0034970682013, 193.3506912238296] gets 13333.333333333334 usage.
+[8] Client_59 [105.40712291021518, 463.6067133372688] gets 57142.857142857145 usage.
+[8] Client_60 [-327.8370112284178, 457.2717396220532] gets 42857.142857142855 usage.
+[8] Client_61 [1471.2870699077914, 272.1712844879999] gets 101818.18181818182 usage.
+[8] Client_62 [341.78210318690014, -39.61430911134842] gets 42857.142857142855 usage.
+[8] Client_63 [292.4965958033437, 10.089917093410167] gets 57142.857142857145 usage.
+[8] Client_64 [209.09509705217303, -553.5097491193984] gets 25000.0 usage.
+[8] Client_65 [-182.683711565974, 850.4116997851984] gets 120000.0 usage.
+[8] Client_66 [29.75509096091415, -524.2064500535522] gets 42857.142857142855 usage.
+[8] Client_67 [-223.6188950055576, 646.438880168715] gets 120000.0 usage.
+[8] Client_68 [-405.58995393457457, -134.93716385856416] gets 56000.0 usage.
+[8] Client_69 [1348.2871895659305, 349.5361016150052] gets 101818.18181818182 usage.
+[8] Client_72 [182.5950680383117, -207.4796955666663] gets 42857.142857142855 usage.
+[8] Client_73 [-292.1960308748086, -233.9220569866411] gets 76000.0 usage.
+[8] Client_74 [-20.04279752675686, 501.57018933651267] gets 42857.142857142855 usage.
+[8] Client_75 [-91.13098117788074, -575.0087376814721] gets 76000.0 usage.
+[8] Client_76 [652.8113956173864, -307.8967474988879] gets 66666.66666666667 usage.
+[8] Client_78 [-301.70256325974236, -133.67785077409803] gets 57142.857142857145 usage.
+[8] Client_79 [89.881587772047, 327.18869031900687] gets 42857.142857142855 usage.
+[8] Client_80 [-264.0062022218364, 624.8912091383439] gets 13333.333333333334 usage.
+[8] Client_82 [-631.621215781797, 245.90700742519488] gets 120000.0 usage.
+[8] Client_83 [-69.67927375304832, -284.68241712217167] gets 42857.142857142855 usage.
+[8] Client_85 [892.9799367238002, -737.1484626073484] gets 25000.0 usage.
+[8] Client_87 [-691.9660485252878, 864.8710212484106] gets 120000.0 usage.
+[8] Client_88 [25.98983628886379, -798.8046627239642] gets 66666.66666666667 usage.
+[8] Client_89 [-3.2233009831633987, -891.3811330908227] gets 25000.0 usage.
+[8] Client_91 [-848.656900953944, 189.52436437331207] gets 120000.0 usage.
+[8] Client_92 [402.31029763690293, -971.185859413259] gets 66666.66666666667 usage.
+[8] Client_93 [697.4313787967442, -399.60423698935807] gets 66666.66666666667 usage.
+[8] Client_94 [46.49736457769934, 506.5968807322438] gets 57142.857142857145 usage.
+[8] Client_95 [-628.5630106647708, 1386.2725277146842] gets 13333.333333333334 usage.
+[8] Client_96 [-293.4854805389919, -629.9311549062323] gets 76000.0 usage.
+[8] Client_97 [284.5746292924154, -87.49044304128263] gets 42857.142857142855 usage.
+[8] Client_98 [650.9567961900038, 96.79133982737231] gets 56000.0 usage.
+[8] Client_99 [-1268.403154679887, 864.8825421558689] gets 13333.333333333334 usage.
+[8] Client_0 [618.0266862306073, 785.3203477399862] puts back 101818.18181818182 usage.
+[8] Client_1 [35.898268711247056, -690.5404642607483] puts back 66666.66666666667 usage.
+[8] Client_2 [-864.1412554442572, 94.1031487308485] puts back 13333.333333333334 usage.
+[8] Client_4 [41.25005731281811, -39.48993090237878] puts back 57142.857142857145 usage.
+[8] Client_5 [-925.4234632165048, 177.61349858960637] puts back 13333.333333333334 usage.
+[8] Client_6 [-826.407241384502, 944.5600107333661] puts back 120000.0 usage.
+[8] Client_7 [-633.9376165658606, -285.4416644628394] puts back 76000.0 usage.
+[8] Client_8 [43.61011316834111, -621.7585501265332] puts back 25000.0 usage.
+[8] Client_10 [326.7787818741419, -450.43474212107355] puts back 66666.66666666667 usage.
+[8] Client_11 [-502.3773929582006, -995.6541229452158] puts back 76000.0 usage.
+[8] Client_13 [-1074.123736611846, 937.6167270073162] puts back 13333.333333333334 usage.
+[8] Client_14 [313.1972609525046, 39.91979007691974] puts back 57142.857142857145 usage.
+[8] Client_15 [-766.0528246035066, -238.55153928588055] puts back 76000.0 usage.
+[8] Client_16 [753.1127276768073, 138.66913603899002] puts back 56000.0 usage.
+[8] Client_17 [-240.84025241160316, 1314.3964082608895] puts back 120000.0 usage.
+[8] Client_18 [204.82650700125885, -605.0246858541816] puts back 25000.0 usage.
+[8] Client_19 [624.0567556483687, -220.72474560483155] puts back 25000.0 usage.
+[8] Client_20 [836.606145364539, 414.93292921936967] puts back 101818.18181818182 usage.
+[8] Client_22 [1276.514665024859, 1226.8838742607666] puts back 50000.0 usage.
+[8] Client_23 [469.0054933617128, -544.155187670043] puts back 66666.66666666667 usage.
+[8] Client_24 [496.290033804457, -721.6761359634688] puts back 25000.0 usage.
+[8] Client_25 [643.2003885028225, -143.6513536467535] puts back 66666.66666666667 usage.
+[8] Client_26 [507.6402372783615, 406.02836053676117] puts back 101818.18181818182 usage.
+[8] Client_27 [753.6650972900292, 280.1804343591821] puts back 56000.0 usage.
+[8] Client_28 [785.5980619907153, -16.87000516595146] puts back 101818.18181818182 usage.
+[8] Client_29 [281.8730521431106, 432.14639833490327] puts back 42857.142857142855 usage.
+[8] Client_30 [911.7555226471422, -544.4621023061359] puts back 25000.0 usage.
+[8] Client_31 [-440.18203364686786, -377.1487307418674] puts back 56000.0 usage.
+[8] Client_32 [773.3789594740238, 855.6713671190311] puts back 56000.0 usage.
+[8] Client_33 [492.81132887011614, -1070.3720014093365] puts back 66666.66666666667 usage.
+[8] Client_34 [-551.3655804244489, 480.7298917178744] puts back 13333.333333333334 usage.
+[8] Client_35 [230.30535301285946, -394.4853150189179] puts back 42857.142857142855 usage.
+[8] Client_36 [803.761456035841, 1214.8817198266192] puts back 50000.0 usage.
+[8] Client_37 [-96.06736392695518, 328.31433438080967] puts back 42857.142857142855 usage.
+[8] Client_38 [756.7351755839684, 500.95632594761605] puts back 101818.18181818182 usage.
+[8] Client_39 [565.801891498397, 1042.5358322757747] puts back 101818.18181818182 usage.
+[8] Client_40 [339.9510487991602, -1457.779254437326] puts back 66666.66666666667 usage.
+[8] Client_41 [714.5882696885589, 115.29784346596219] puts back 101818.18181818182 usage.
+[8] Client_42 [485.0732021729522, 746.0635487568006] puts back 101818.18181818182 usage.
+[8] Client_43 [-207.17041452143837, 671.0962648221797] puts back 120000.0 usage.
+[8] Client_44 [-1393.2749069250608, 611.5944773949631] puts back 120000.0 usage.
+[8] Client_45 [417.1771425819818, 693.4597675389517] puts back 56000.0 usage.
+[8] Client_46 [42.9479698588788, -360.8976446044219] puts back 42857.142857142855 usage.
+[8] Client_48 [4.453311256362014, -595.1506373253754] puts back 66666.66666666667 usage.
+[8] Client_50 [706.5382110986646, -55.42567947681939] puts back 101818.18181818182 usage.
+[8] Client_51 [-408.71153053468765, 134.31368297664534] puts back 57142.857142857145 usage.
+[8] Client_52 [-219.3905576152447, -743.1909265328878] puts back 76000.0 usage.
+[8] Client_53 [562.6192715796054, -126.15908014181693] puts back 42857.142857142855 usage.
+[8] Client_54 [547.2210689814401, -866.8902090329539] puts back 66666.66666666667 usage.
+[8] Client_55 [-359.88915219461836, -81.98731713337621] puts back 42857.142857142855 usage.
+[8] Client_56 [-144.6152055560674, 769.9656932373684] puts back 13333.333333333334 usage.
+[8] Client_57 [-34.48598360576774, -534.7528165722995] puts back 56000.0 usage.
+[8] Client_58 [-623.0034970682013, 193.3506912238296] puts back 13333.333333333334 usage.
+[8] Client_59 [105.40712291021518, 463.6067133372688] puts back 57142.857142857145 usage.
+[8] Client_60 [-327.8370112284178, 457.2717396220532] puts back 42857.142857142855 usage.
+[8] Client_61 [1471.2870699077914, 272.1712844879999] puts back 101818.18181818182 usage.
+[8] Client_62 [341.78210318690014, -39.61430911134842] puts back 42857.142857142855 usage.
+[8] Client_63 [292.4965958033437, 10.089917093410167] puts back 57142.857142857145 usage.
+[8] Client_64 [209.09509705217303, -553.5097491193984] puts back 25000.0 usage.
+[8] Client_65 [-182.683711565974, 850.4116997851984] puts back 120000.0 usage.
+[8] Client_66 [29.75509096091415, -524.2064500535522] puts back 42857.142857142855 usage.
+[8] Client_67 [-223.6188950055576, 646.438880168715] puts back 120000.0 usage.
+[8] Client_68 [-405.58995393457457, -134.93716385856416] puts back 56000.0 usage.
+[8] Client_69 [1348.2871895659305, 349.5361016150052] puts back 101818.18181818182 usage.
+[8] Client_72 [182.5950680383117, -207.4796955666663] puts back 42857.142857142855 usage.
+[8] Client_73 [-292.1960308748086, -233.9220569866411] puts back 76000.0 usage.
+[8] Client_74 [-20.04279752675686, 501.57018933651267] puts back 42857.142857142855 usage.
+[8] Client_75 [-91.13098117788074, -575.0087376814721] puts back 76000.0 usage.
+[8] Client_76 [652.8113956173864, -307.8967474988879] puts back 66666.66666666667 usage.
+[8] Client_78 [-301.70256325974236, -133.67785077409803] puts back 57142.857142857145 usage.
+[8] Client_79 [89.881587772047, 327.18869031900687] puts back 42857.142857142855 usage.
+[8] Client_80 [-264.0062022218364, 624.8912091383439] puts back 13333.333333333334 usage.
+[8] Client_82 [-631.621215781797, 245.90700742519488] puts back 120000.0 usage.
+[8] Client_83 [-69.67927375304832, -284.68241712217167] puts back 42857.142857142855 usage.
+[8] Client_85 [892.9799367238002, -737.1484626073484] puts back 25000.0 usage.
+[8] Client_87 [-691.9660485252878, 864.8710212484106] puts back 120000.0 usage.
+[8] Client_88 [25.98983628886379, -798.8046627239642] puts back 66666.66666666667 usage.
+[8] Client_89 [-3.2233009831633987, -891.3811330908227] puts back 25000.0 usage.
+[8] Client_91 [-848.656900953944, 189.52436437331207] puts back 120000.0 usage.
+[8] Client_92 [402.31029763690293, -971.185859413259] puts back 66666.66666666667 usage.
+[8] Client_93 [697.4313787967442, -399.60423698935807] puts back 66666.66666666667 usage.
+[8] Client_94 [46.49736457769934, 506.5968807322438] puts back 57142.857142857145 usage.
+[8] Client_95 [-628.5630106647708, 1386.2725277146842] puts back 13333.333333333334 usage.
+[8] Client_96 [-293.4854805389919, -629.9311549062323] puts back 76000.0 usage.
+[8] Client_97 [284.5746292924154, -87.49044304128263] puts back 42857.142857142855 usage.
+[8] Client_98 [650.9567961900038, 96.79133982737231] puts back 56000.0 usage.
+[8] Client_99 [-1268.403154679887, 864.8825421558689] puts back 13333.333333333334 usage.
+KDTREE CALL [8] - limit: 5
+[9] Client_0 [619.0266862306073, 786.3203477399862] gets 101818.18181818182 usage.
+[9] Client_1 [38.38017021058972, -690.5985828326212] gets 66666.66666666667 usage.
+[9] Client_2 [-863.1412554442572, 94.1031487308485] gets 13333.333333333334 usage.
+[9] Client_4 [42.600306864545935, -41.43481850249184] gets 57142.857142857145 usage.
+[9] Client_5 [-926.0077911447091, 179.66449711747944] gets 13333.333333333334 usage.
+[9] Client_6 [-826.407241384502, 945.5600107333661] gets 120000.0 usage.
+[9] Client_7 [-633.9376165658606, -285.4416644628394] gets 76000.0 usage.
+[9] Client_8 [43.61011316834111, -621.7585501265332] gets 25000.0 usage.
+[9] Client_10 [327.4814154465533, -451.4881395936965] gets 66666.66666666667 usage.
+[9] Client_11 [-501.36493384431986, -995.1147293593029] gets 76000.0 usage.
+[9] Client_13 [-1074.123736611846, 937.6167270073162] gets 13333.333333333334 usage.
+[9] Client_14 [313.1972609525046, 40.91979007691974] gets 57142.857142857145 usage.
+[9] Client_15 [-767.1707621120704, -237.6357254022071] gets 76000.0 usage.
+[9] Client_16 [752.0495381397893, 138.50502974377406] gets 56000.0 usage.
+[9] Client_17 [-240.11241353780656, 1313.6319360730326] gets 120000.0 usage.
+[9] Client_18 [204.0694831020493, -604.8312126376268] gets 25000.0 usage.
+[9] Client_19 [624.0567556483687, -220.72474560483155] gets 25000.0 usage.
+[9] Client_20 [837.606145364539, 414.93292921936967] gets 101818.18181818182 usage.
+[9] Client_22 [1274.3615227152457, 1225.6211671188628] gets 50000.0 usage.
+[9] Client_23 [469.0054933617128, -543.155187670043] gets 66666.66666666667 usage.
+[9] Client_24 [495.8428465081586, -721.328716926208] gets 25000.0 usage.
+[9] Client_25 [643.2003885028225, -143.6513536467535] gets 66666.66666666667 usage.
+[9] Client_26 [507.6402372783615, 407.02836053676117] gets 101818.18181818182 usage.
+[9] Client_27 [753.962384417389, 282.04472032425633] gets 56000.0 usage.
+[9] Client_28 [785.5980619907153, -16.87000516595146] gets 101818.18181818182 usage.
+[9] Client_29 [281.8730521431106, 432.14639833490327] gets 42857.142857142855 usage.
+[9] Client_30 [912.7555226471422, -543.4621023061359] gets 25000.0 usage.
+[9] Client_31 [-440.18203364686786, -377.1487307418674] gets 56000.0 usage.
+[9] Client_32 [773.6200896069467, 856.2792060997319] gets 56000.0 usage.
+[9] Client_33 [494.5443293822177, -1071.5171350273008] gets 66666.66666666667 usage.
+[9] Client_34 [-551.3655804244489, 481.7298917178744] gets 13333.333333333334 usage.
+[9] Client_35 [230.44545880766873, -395.677740154093] gets 42857.142857142855 usage.
+[9] Client_36 [804.761456035841, 1214.8817198266192] gets 50000.0 usage.
+[9] Client_37 [-95.93143728481039, 328.4837640607239] gets 42857.142857142855 usage.
+[9] Client_38 [756.8943025088548, 502.2924036964743] gets 101818.18181818182 usage.
+[9] Client_39 [565.801891498397, 1042.5358322757747] gets 101818.18181818182 usage.
+[9] Client_40 [339.9510487991602, -1456.779254437326] gets 66666.66666666667 usage.
+[9] Client_41 [714.5882696885589, 115.29784346596219] gets 101818.18181818182 usage.
+[9] Client_42 [485.831730703094, 746.2475960287344] gets 101818.18181818182 usage.
+[9] Client_43 [-206.17041452143837, 672.0962648221797] gets 120000.0 usage.
+[9] Client_44 [-1392.2749069250608, 611.5944773949631] gets 120000.0 usage.
+[9] Client_45 [417.1771425819818, 694.4597675389517] gets 56000.0 usage.
+[9] Client_46 [43.29029685621059, -360.1548742387191] gets 42857.142857142855 usage.
+[9] Client_48 [3.728195823698621, -594.5255102887807] gets 66666.66666666667 usage.
+[9] Client_50 [708.000407825731, -52.70905761052427] gets 101818.18181818182 usage.
+[9] Client_51 [-409.0172509132382, 134.2210438530351] gets 57142.857142857145 usage.
+[9] Client_52 [-218.3905576152447, -743.1909265328878] gets 76000.0 usage.
+[9] Client_53 [562.6192715796054, -126.15908014181693] gets 42857.142857142855 usage.
+[9] Client_54 [548.8486880479395, -864.4153636312559] gets 66666.66666666667 usage.
+[9] Client_55 [-358.88915219461836, -81.98731713337621] gets 42857.142857142855 usage.
+[9] Client_56 [-145.31699728553173, 768.7957196314784] gets 13333.333333333334 usage.
+[9] Client_57 [-33.54218668652743, -534.6404394663992] gets 56000.0 usage.
+[9] Client_58 [-621.321092525007, 193.22497749028153] gets 13333.333333333334 usage.
+[9] Client_59 [105.40712291021518, 463.6067133372688] gets 57142.857142857145 usage.
+[9] Client_60 [-326.75920224048105, 458.59318494125614] gets 42857.142857142855 usage.
+[9] Client_61 [1471.2870699077914, 272.1712844879999] gets 101818.18181818182 usage.
+[9] Client_62 [341.6861622103409, -41.419093370913636] gets 42857.142857142855 usage.
+[9] Client_63 [292.54533571448763, 8.446161712981235] gets 57142.857142857145 usage.
+[9] Client_64 [209.09509705217303, -553.5097491193984] gets 25000.0 usage.
+[9] Client_65 [-182.683711565974, 850.4116997851984] gets 120000.0 usage.
+[9] Client_66 [29.75509096091415, -523.2064500535522] gets 42857.142857142855 usage.
+[9] Client_67 [-223.6188950055576, 647.438880168715] gets 120000.0 usage.
+[9] Client_68 [-406.26489022467183, -135.26902198124012] gets 56000.0 usage.
+[9] Client_69 [1348.2871895659305, 350.5361016150052] gets 101818.18181818182 usage.
+[9] Client_72 [182.79956292859748, -209.64771238338918] gets 42857.142857142855 usage.
+[9] Client_73 [-291.1960308748086, -232.9220569866411] gets 76000.0 usage.
+[9] Client_74 [-19.04279752675686, 501.57018933651267] gets 42857.142857142855 usage.
+[9] Client_75 [-90.13098117788074, -574.0087376814721] gets 76000.0 usage.
+[9] Client_76 [652.8113956173864, -306.8967474988879] gets 66666.66666666667 usage.
+[9] Client_78 [-300.70256325974236, -132.67785077409803] gets 57142.857142857145 usage.
+[9] Client_79 [89.47782827140024, 328.0982621088897] gets 42857.142857142855 usage.
+[9] Client_80 [-263.7395863485869, 625.7934140928547] gets 13333.333333333334 usage.
+[9] Client_82 [-631.621215781797, 246.90700742519488] gets 120000.0 usage.
+[9] Client_83 [-69.67927375304832, -284.68241712217167] gets 42857.142857142855 usage.
+[9] Client_85 [893.2673469863877, -738.4387205994688] gets 25000.0 usage.
+[9] Client_87 [-690.9660485252878, 865.8710212484106] gets 120000.0 usage.
+[9] Client_88 [25.98983628886379, -798.8046627239642] gets 66666.66666666667 usage.
+[9] Client_89 [-2.8760425587450253, -891.9116123646809] gets 25000.0 usage.
+[9] Client_91 [-847.9253993806792, 189.79285148680083] gets 120000.0 usage.
+[9] Client_92 [403.31029763690293, -971.185859413259] gets 66666.66666666667 usage.
+[9] Client_93 [697.4313787967442, -398.60423698935807] gets 66666.66666666667 usage.
+[9] Client_94 [46.49736457769934, 507.5968807322438] gets 57142.857142857145 usage.
+[9] Client_95 [-628.4427770510233, 1387.6850959880016] gets 13333.333333333334 usage.
+[9] Client_96 [-293.4854805389919, -629.9311549062323] gets 76000.0 usage.
+[9] Client_97 [284.5746292924154, -87.49044304128263] gets 42857.142857142855 usage.
+[9] Client_98 [651.4248187647196, 97.66195697929979] gets 56000.0 usage.
+[9] Client_99 [-1268.403154679887, 865.8825421558689] gets 13333.333333333334 usage.
+[9] Client_0 [619.0266862306073, 786.3203477399862] puts back 101818.18181818182 usage.
+[9] Client_1 [38.38017021058972, -690.5985828326212] puts back 66666.66666666667 usage.
+[9] Client_2 [-863.1412554442572, 94.1031487308485] puts back 13333.333333333334 usage.
+[9] Client_4 [42.600306864545935, -41.43481850249184] puts back 57142.857142857145 usage.
+[9] Client_5 [-926.0077911447091, 179.66449711747944] puts back 13333.333333333334 usage.
+[9] Client_6 [-826.407241384502, 945.5600107333661] puts back 120000.0 usage.
+[9] Client_7 [-633.9376165658606, -285.4416644628394] puts back 76000.0 usage.
+[9] Client_8 [43.61011316834111, -621.7585501265332] puts back 25000.0 usage.
+[9] Client_10 [327.4814154465533, -451.4881395936965] puts back 66666.66666666667 usage.
+[9] Client_11 [-501.36493384431986, -995.1147293593029] puts back 76000.0 usage.
+[9] Client_13 [-1074.123736611846, 937.6167270073162] puts back 13333.333333333334 usage.
+[9] Client_14 [313.1972609525046, 40.91979007691974] puts back 57142.857142857145 usage.
+[9] Client_15 [-767.1707621120704, -237.6357254022071] puts back 76000.0 usage.
+[9] Client_16 [752.0495381397893, 138.50502974377406] puts back 56000.0 usage.
+[9] Client_17 [-240.11241353780656, 1313.6319360730326] puts back 120000.0 usage.
+[9] Client_18 [204.0694831020493, -604.8312126376268] puts back 25000.0 usage.
+[9] Client_19 [624.0567556483687, -220.72474560483155] puts back 25000.0 usage.
+[9] Client_20 [837.606145364539, 414.93292921936967] puts back 101818.18181818182 usage.
+[9] Client_22 [1274.3615227152457, 1225.6211671188628] puts back 50000.0 usage.
+[9] Client_23 [469.0054933617128, -543.155187670043] puts back 66666.66666666667 usage.
+[9] Client_24 [495.8428465081586, -721.328716926208] puts back 25000.0 usage.
+[9] Client_25 [643.2003885028225, -143.6513536467535] puts back 66666.66666666667 usage.
+[9] Client_26 [507.6402372783615, 407.02836053676117] puts back 101818.18181818182 usage.
+[9] Client_27 [753.962384417389, 282.04472032425633] puts back 56000.0 usage.
+[9] Client_28 [785.5980619907153, -16.87000516595146] puts back 101818.18181818182 usage.
+[9] Client_29 [281.8730521431106, 432.14639833490327] puts back 42857.142857142855 usage.
+[9] Client_30 [912.7555226471422, -543.4621023061359] puts back 25000.0 usage.
+[9] Client_31 [-440.18203364686786, -377.1487307418674] puts back 56000.0 usage.
+[9] Client_32 [773.6200896069467, 856.2792060997319] puts back 56000.0 usage.
+[9] Client_33 [494.5443293822177, -1071.5171350273008] puts back 66666.66666666667 usage.
+[9] Client_34 [-551.3655804244489, 481.7298917178744] puts back 13333.333333333334 usage.
+[9] Client_35 [230.44545880766873, -395.677740154093] puts back 42857.142857142855 usage.
+[9] Client_36 [804.761456035841, 1214.8817198266192] puts back 50000.0 usage.
+[9] Client_37 [-95.93143728481039, 328.4837640607239] puts back 42857.142857142855 usage.
+[9] Client_38 [756.8943025088548, 502.2924036964743] puts back 101818.18181818182 usage.
+[9] Client_39 [565.801891498397, 1042.5358322757747] puts back 101818.18181818182 usage.
+[9] Client_40 [339.9510487991602, -1456.779254437326] puts back 66666.66666666667 usage.
+[9] Client_41 [714.5882696885589, 115.29784346596219] puts back 101818.18181818182 usage.
+[9] Client_42 [485.831730703094, 746.2475960287344] puts back 101818.18181818182 usage.
+[9] Client_43 [-206.17041452143837, 672.0962648221797] puts back 120000.0 usage.
+[9] Client_44 [-1392.2749069250608, 611.5944773949631] puts back 120000.0 usage.
+[9] Client_45 [417.1771425819818, 694.4597675389517] puts back 56000.0 usage.
+[9] Client_46 [43.29029685621059, -360.1548742387191] puts back 42857.142857142855 usage.
+[9] Client_48 [3.728195823698621, -594.5255102887807] puts back 66666.66666666667 usage.
+[9] Client_50 [708.000407825731, -52.70905761052427] puts back 101818.18181818182 usage.
+[9] Client_51 [-409.0172509132382, 134.2210438530351] puts back 57142.857142857145 usage.
+[9] Client_52 [-218.3905576152447, -743.1909265328878] puts back 76000.0 usage.
+[9] Client_53 [562.6192715796054, -126.15908014181693] puts back 42857.142857142855 usage.
+[9] Client_54 [548.8486880479395, -864.4153636312559] puts back 66666.66666666667 usage.
+[9] Client_55 [-358.88915219461836, -81.98731713337621] puts back 42857.142857142855 usage.
+[9] Client_56 [-145.31699728553173, 768.7957196314784] puts back 13333.333333333334 usage.
+[9] Client_57 [-33.54218668652743, -534.6404394663992] puts back 56000.0 usage.
+[9] Client_58 [-621.321092525007, 193.22497749028153] puts back 13333.333333333334 usage.
+[9] Client_59 [105.40712291021518, 463.6067133372688] puts back 57142.857142857145 usage.
+[9] Client_60 [-326.75920224048105, 458.59318494125614] puts back 42857.142857142855 usage.
+[9] Client_61 [1471.2870699077914, 272.1712844879999] puts back 101818.18181818182 usage.
+[9] Client_62 [341.6861622103409, -41.419093370913636] puts back 42857.142857142855 usage.
+[9] Client_63 [292.54533571448763, 8.446161712981235] puts back 57142.857142857145 usage.
+[9] Client_64 [209.09509705217303, -553.5097491193984] puts back 25000.0 usage.
+[9] Client_65 [-182.683711565974, 850.4116997851984] puts back 120000.0 usage.
+[9] Client_66 [29.75509096091415, -523.2064500535522] puts back 42857.142857142855 usage.
+[9] Client_67 [-223.6188950055576, 647.438880168715] puts back 120000.0 usage.
+[9] Client_68 [-406.26489022467183, -135.26902198124012] puts back 56000.0 usage.
+[9] Client_69 [1348.2871895659305, 350.5361016150052] puts back 101818.18181818182 usage.
+[9] Client_72 [182.79956292859748, -209.64771238338918] puts back 42857.142857142855 usage.
+[9] Client_73 [-291.1960308748086, -232.9220569866411] puts back 76000.0 usage.
+[9] Client_74 [-19.04279752675686, 501.57018933651267] puts back 42857.142857142855 usage.
+[9] Client_75 [-90.13098117788074, -574.0087376814721] puts back 76000.0 usage.
+[9] Client_76 [652.8113956173864, -306.8967474988879] puts back 66666.66666666667 usage.
+[9] Client_78 [-300.70256325974236, -132.67785077409803] puts back 57142.857142857145 usage.
+[9] Client_79 [89.47782827140024, 328.0982621088897] puts back 42857.142857142855 usage.
+[9] Client_80 [-263.7395863485869, 625.7934140928547] puts back 13333.333333333334 usage.
+[9] Client_82 [-631.621215781797, 246.90700742519488] puts back 120000.0 usage.
+[9] Client_83 [-69.67927375304832, -284.68241712217167] puts back 42857.142857142855 usage.
+[9] Client_85 [893.2673469863877, -738.4387205994688] puts back 25000.0 usage.
+[9] Client_87 [-690.9660485252878, 865.8710212484106] puts back 120000.0 usage.
+[9] Client_88 [25.98983628886379, -798.8046627239642] puts back 66666.66666666667 usage.
+[9] Client_89 [-2.8760425587450253, -891.9116123646809] puts back 25000.0 usage.
+[9] Client_91 [-847.9253993806792, 189.79285148680083] puts back 120000.0 usage.
+[9] Client_92 [403.31029763690293, -971.185859413259] puts back 66666.66666666667 usage.
+[9] Client_93 [697.4313787967442, -398.60423698935807] puts back 66666.66666666667 usage.
+[9] Client_94 [46.49736457769934, 507.5968807322438] puts back 57142.857142857145 usage.
+[9] Client_95 [-628.4427770510233, 1387.6850959880016] puts back 13333.333333333334 usage.
+[9] Client_96 [-293.4854805389919, -629.9311549062323] puts back 76000.0 usage.
+[9] Client_97 [284.5746292924154, -87.49044304128263] puts back 42857.142857142855 usage.
+[9] Client_98 [651.4248187647196, 97.66195697929979] puts back 56000.0 usage.
+[9] Client_99 [-1268.403154679887, 865.8825421558689] puts back 13333.333333333334 usage.
+KDTREE CALL [9] - limit: 5
+Client_0 [619.0266862306073, 786.3203477399862] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     6
+	Total usage: 610909.0909090909
+
+Client_1 [38.35923615105299, -688.504048464212] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_2 [-862.1412554442572, 94.1031487308485] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_3 [-1288.861599904819, -581.08407473325] connected to: slice=None @ None	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_4 [43.60431474814975, -40.78425411193765] connected to: slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 400000.00000000006
+
+Client_5 [-928.2177340011574, 181.58030475925142] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_6 [-825.407241384502, 946.5600107333661] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_7 [-633.9376165658606, -285.4416644628394] connected to: slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 532000.0
+
+Client_8 [43.61011316834111, -621.7585501265332] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 183333.33333333334
+
+Client_9 [1710.6414394638746, -378.1508682715921] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_10 [326.72789396798623, -451.46681419860136] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_11 [-502.8903710056552, -994.1756642021628] connected to: slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 532000.0
+
+Client_12 [239.00832199454192, 649.0803443635202] connected to: slice=None @ None	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_13 [-1073.123736611846, 938.6167270073162] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_14 [314.1972609525046, 40.91979007691974] connected to: slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 400000.00000000006
+
+Client_15 [-765.9483447696475, -235.57933014449955] connected to: slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 532000.0
+
+Client_16 [751.169626801416, 137.1531470238237] connected to: slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_17 [-240.6525587630517, 1314.4973155267978] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_18 [203.44527675679512, -605.8862927630483] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     6
+	Total usage: 150000.0
+
+Client_19 [625.0567556483687, -220.72474560483155] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 178571.42857142858
+
+Client_20 [837.606145364539, 415.93292921936967] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_21 [-1403.6373533651636, -330.812627553061] connected to: slice=None @ None	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_22 [1274.1417729061707, 1225.272858662046] connected to: slice=data       init=50000.0 cap=50000.0 diff=0.0   @ BS_6 	 cov:[c=(1100, 1300), r= 357]	 with cap 100000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 350000.0
+
+Client_23 [469.0054933617128, -542.155187670043] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_24 [494.6464647196615, -719.6583248432673] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 178571.42857142858
+
+Client_25 [643.2003885028225, -142.6513536467535] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_26 [508.6402372783615, 407.02836053676117] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_27 [755.8325801606593, 282.3850596333031] connected to: slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_28 [786.5980619907153, -15.870005165951461] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_29 [281.8730521431106, 432.14639833490327] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 307142.8571428571
+
+Client_30 [912.7555226471422, -543.4621023061359] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 178571.42857142858
+
+Client_31 [-440.18203364686786, -376.1487307418674] connected to: slice=iot        init=168000.0 cap=168000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_32 [774.539031095895, 855.3777565307175] connected to: slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_33 [493.8444608453535, -1072.0141741958312] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_34 [-550.3655804244489, 482.7298917178744] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_35 [230.37357119384978, -395.1256568025454] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 307142.8571428571
+
+Client_36 [804.761456035841, 1215.8817198266192] connected to: slice=iot        init=50000.0 cap=50000.0 diff=0.0   @ BS_6 	 cov:[c=(1100, 1300), r= 357]	 with cap 100000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 350000.0
+
+Client_37 [-95.81816556531284, 329.72967834206815] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 307142.8571428571
+
+Client_38 [756.6581622346409, 501.01379418490296] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_39 [565.801891498397, 1042.5358322757747] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_40 [340.9510487991602, -1456.779254437326] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_41 [714.5882696885589, 115.29784346596219] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_42 [486.21475476193035, 747.6092752132225] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_43 [-206.17041452143837, 673.0962648221797] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_44 [-1391.2749069250608, 611.5944773949631] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_45 [417.1771425819818, 694.4597675389517] connected to: slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_46 [43.60832375733059, -360.19935676160395] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     6
+	Total usage: 257142.8571428571
+
+Client_47 [-841.1072226318674, -53.027086609801664] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_48 [3.5933452054931148, -594.5842464038747] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_49 [2062.729497863361, -247.09160027138017] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_50 [708.3347841961679, -49.83070864020258] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_51 [-408.8478729428253, 135.0633405603755] connected to: slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 400000.00000000006
+
+Client_52 [-218.3905576152447, -742.1909265328878] connected to: slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 532000.0
+
+Client_53 [562.6192715796054, -125.15908014181693] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 303296.7032967032
+
+Client_54 [546.5549888997235, -862.9498745275444] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_55 [-357.88915219461836, -81.98731713337621] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 303296.7032967032
+
+Client_56 [-144.8808358988933, 769.6510128918655] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_57 [-33.49641291120402, -534.260619917727] connected to: slice=iot        init=168000.0 cap=168000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_58 [-621.590890544921, 191.07833448690056] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_59 [106.40712291021518, 463.6067133372688] connected to: slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 400000.00000000006
+
+Client_60 [-325.15774154059966, 457.77517858792874] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 303296.7032967032
+
+Client_61 [1471.2870699077914, 273.1712844879999] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_62 [341.0577105373323, -43.04322255898697] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 303296.7032967032
+
+Client_63 [292.7466787843126, 7.5251220970598265] connected to: slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 400000.00000000006
+
+Client_64 [209.09509705217303, -552.5097491193984] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     6
+	Total usage: 150000.0
+
+Client_65 [-182.683711565974, 851.4116997851984] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_66 [29.75509096091415, -522.2064500535522] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     6
+	Total usage: 257142.8571428571
+
+Client_67 [-223.6188950055576, 648.438880168715] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_68 [-406.705606996804, -136.13091547856695] connected to: slice=iot        init=168000.0 cap=168000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_69 [1349.2871895659305, 350.5361016150052] connected to: slice=data       init=1120000.0 cap=1120000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 712727.2727272727
+
+Client_70 [-605.5367911219191, 22.817630013898764] connected to: slice=None @ None	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_71 [688.0205718149451, 1545.3201651733877] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_72 [181.69863629497848, -210.242304623329] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 299999.99999999994
+
+Client_73 [-291.1960308748086, -231.9220569866411] connected to: slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 532000.0
+
+Client_74 [-19.04279752675686, 502.57018933651267] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 299999.99999999994
+
+Client_75 [-89.13098117788074, -574.0087376814721] connected to: slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 532000.0
+
+Client_76 [652.8113956173864, -305.8967474988879] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_77 [1521.6628346811153, -822.2177769945931] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_78 [-300.70256325974236, -131.67785077409803] connected to: slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 400000.00000000006
+
+Client_79 [89.1078667770748, 328.0055623855224] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 299999.99999999994
+
+Client_80 [-264.3880798103573, 626.4711862117558] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_81 [-1321.0512727724752, -544.5569407500959] connected to: slice=None @ None	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_82 [-631.621215781797, 247.90700742519488] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_83 [-69.67927375304832, -283.68241712217167] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 299999.99999999994
+
+Client_84 [61.255715036439206, 1103.814899291562] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_85 [892.558513890095, -739.8325484414287] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 175000.0
+
+Client_86 [261.47636230696185, 1159.0519035251605] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_87 [-690.9660485252878, 866.8710212484106] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_88 [26.98983628886379, -798.8046627239642] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_89 [-2.967260251393189, -893.2478580873235] connected to: slice=iot        init=200000.0 cap=199999.99999999997 diff=2.9103830456733704e-11 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 175000.0
+
+Client_90 [130.93781328943618, 1536.1785727843835] connected to: slice=None @ None	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     0
+	Total consume time:     0
+	Total usage:     0
+
+Client_91 [-849.7670684034316, 189.45134179940328] connected to: slice=data       init=1080000.0 cap=1080000.0 diff=0.0   @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 840000.0
+
+Client_92 [404.31029763690293, -971.185859413259] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_93 [698.4313787967442, -398.60423698935807] connected to: slice=data       init=800000.0 cap=733333.3333333334 diff=66666.66666666663 @ BS_4 	 cov:[c=(450 , -950), r= 900]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 466666.66666666674
+
+Client_94 [47.49736457769934, 507.5968807322438] connected to: slice=iot        init=400000.0 cap=400000.0 diff=0.0   @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 400000.00000000006
+
+Client_95 [-628.8238622554688, 1386.92275532018] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+Client_96 [-293.4854805389919, -628.9311549062323] connected to: slice=data       init=532000.0 cap=532000.0 diff=0.0   @ BS_2 	 cov:[c=(-500, -500), r= 500]	 with cap 700000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 532000.0
+
+Client_97 [285.5746292924154, -87.49044304128263] connected to: slice=data       init=600000.0 cap=557142.8571428572 diff=42857.14285714284 @ BS_0 	 cov:[c=(0   ,    0), r= 600]	 with cap 1000000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 299999.99999999994
+
+Client_98 [650.9387078069244, 98.47840345438244] connected to: slice=iot        init=280000.0 cap=280000.0 diff=0.0   @ BS_1 	 cov:[c=(1000,  500), r= 700]	 with cap 1400000	 with mobility pattern of [normal_btw_0_1000: normalvariate: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 392000.0
+
+Client_99 [-1267.403154679887, 865.8825421558689] connected to: slice=iot        init=120000.0 cap=106666.66666666667 diff=13333.333333333328 @ BS_3 	 cov:[c=(-750,  850), r= 800]	 with cap 1200000	 with mobility pattern of [basic: randint: (0, 1)]
+	Total connected time:     0
+	Total unconnected time:     0
+	Total request count:     1
+	Total consume time:     7
+	Total usage: 93333.33333333333
+
+([0.0, 0.0, 0.8888888888888888, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444], [0.0, 0.0, 0.0, 5158987.67898768, 5216038.961038961, 5216038.961038961, 5216038.961038961, 5216038.961038961, 5216038.961038961, 5216038.961038961], [0.0, 0.0, 0.0, 0.9345992172079131, 0.9449345943911162, 0.9449345943911162, 0.9449345943911162, 0.9449345943911162, 0.9449345943911162, 0.9449345943911162], [0.0, 0.0, 5.857142857142857, 6.214285714285714, 6.214285714285714, 6.214285714285714, 6.214285714285714, 6.214285714285714, 6.214285714285714, 6.214285714285714], [0.0, 0.0, 0.8888888888888888, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444, 0.9444444444444444], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0])
