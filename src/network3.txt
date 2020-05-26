@@ -5,6 +5,7 @@ BS_3 	 cov:[c=(878 ,  560), r= 392]	 with cap 40000000000
 BS_4 	 cov:[c=(792 ,  988), r= 206]	 with cap 35000000000
 KDTREE CALL [0] - limit: 5
 KDTREE CALL [1] - limit: 5
+
 [1] Client_4 freshly assigned to BS_3 	 cov:[c=(878 ,  560), r= 392]	 with cap 40000000000
 [1] Client_6 freshly assigned to BS_3 	 cov:[c=(878 ,  560), r= 392]	 with cap 40000000000
 [1] Client_11 freshly assigned to BS_1 	 cov:[c=(372 ,  180), r= 406]	 with cap 75000000000
