@@ -11,7 +11,7 @@ settings:
     y:
       min: 0
       max: 1980
-  logging: False
+  logging: True
   log_file: hetnet.txt
   plotting_params:
     plotting: True
